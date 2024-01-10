@@ -1,0 +1,5056 @@
+[{
+  
+  "amount": "98.5",
+  "date": {
+    "date": "2023-12-21T10:02:55.354Z"
+  },
+  "transactionType": "payout",
+  "order_no": "1mkcx2",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "__v": 0
+},
+{
+  
+  "amount": "100",
+  "date": {
+    "date": "2023-12-21T10:09:41.182Z"
+  },
+  "transactionType": "payout",
+  "order_no": "c7zvh9",
+  "userId": "c9mor1amd2703kd74pm8qrf",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "__v": 0
+},
+{
+  
+  "amount": "100",
+  "date": {
+    "date": "2023-12-21T10:09:41.182Z"
+  },
+  "transactionType": "payout",
+  "order_no": "azu6fj",
+  "userId": "c9mor1amd2703kd74pm8qrf",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "__v": 0
+},
+{
+  
+  "amount": "100",
+  "date": {
+    "date": "2023-12-21T10:13:37.632Z"
+  },
+  "transactionType": "payout",
+  "order_no": "6tsldp",
+  "userId": "c9mor1amd2703kd74pm8qrf",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "afterBalance": "7830",
+  "__v": 0
+},
+{
+  
+  "amount": "6000",
+  "date": {
+    "date": "2023-12-21T10:15:52.971Z"
+  },
+  "transactionType": "payout",
+  "order_no": "4b05ch",
+  "userId": "06n1tz1jhcelrktkcdhpx5b",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "afterBalance": "131",
+  "__v": 0
+},
+{
+  
+  "amount": "1600",
+  "date": {
+    "date": "2023-12-21T10:15:52.971Z"
+  },
+  "transactionType": "payout",
+  "order_no": "od4ulm",
+  "userId": "h7qpewkid3bkn4ygjock7n",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "afterBalance": "116",
+  "__v": 0
+},
+{
+  
+  "amount": "1600",
+  "date": {
+    "date": "2023-12-21T10:15:51.590Z"
+  },
+  "transactionType": "payout",
+  "order_no": "45tyjq",
+  "userId": "ewdq3lqbaz2laa1wgt2qn",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "afterBalance": "76",
+  "__v": 0
+},
+{
+  
+  "amount": "4500",
+  "date": {
+    "date": "2023-12-21T10:15:53.782Z"
+  },
+  "transactionType": "payout",
+  "order_no": "7wgbq7",
+  "userId": "jmh8h2giqqo9t10gt338vq",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "afterBalance": "41",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-21T10:15:52.971Z"
+  },
+  "transactionType": "payout",
+  "order_no": "uiuf9z",
+  "userId": "76pk3w1xm3eniksdub4ni",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "afterBalance": "404",
+  "__v": 0
+},
+{
+  
+  "amount": "1000",
+  "date": {
+    "date": "2023-12-21T10:15:53.640Z"
+  },
+  "transactionType": "payout",
+  "order_no": "rihrq9",
+  "userId": "q93f2peleojjj46rj0sbyj",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "afterBalance": "383",
+  "__v": 0
+},
+{
+  
+  "amount": "2000",
+  "date": {
+    "date": "2023-12-21T10:15:49.902Z"
+  },
+  "transactionType": "payout",
+  "order_no": "y84b3r",
+  "userId": "oqmtiuyylnm8o4sop2tg5d",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "afterBalance": "94",
+  "__v": 0
+},
+{
+  
+  "amount": "1000",
+  "date": {
+    "date": "2023-12-21T10:15:49.550Z"
+  },
+  "transactionType": "payout",
+  "order_no": "0pmcg9",
+  "userId": "lk1s3026tfh91ca1bechav",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "afterBalance": "235",
+  "__v": 0
+},
+{
+  
+  "amount": "1000",
+  "date": {
+    "date": "2023-12-21T10:15:49.550Z"
+  },
+  "transactionType": "payout",
+  "order_no": "r4x3mq",
+  "userId": "lk1s3026tfh91ca1bechav",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "afterBalance": "-765",
+  "__v": 0
+},
+{
+  
+  "amount": "100",
+  "date": {
+    "date": "2023-12-21T10:26:06.689Z"
+  },
+  "transactionType": "payout",
+  "order_no": "hq6c5n",
+  "userId": "c9mor1amd2703kd74pm8qrf",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_a6xljzq7dsk5rnlf",
+  "afterBalance": "7730",
+  "recipient_code": "RCP_c9h1q49leigfigz",
+  "accountname": "NELSON   UHEMBE",
+  "__v": 0
+},
+{
+  
+  "amount": "11000",
+  "date": {
+    "date": "2023-12-21T10:29:30.952Z"
+  },
+  "transactionType": "payout",
+  "order_no": "f8nvsb",
+  "userId": "qhc44xlsnmv1dasa48qp",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_r052lwsy4u563lox",
+  "afterBalance": "261",
+  "recipient_code": "RCP_71kbt4ckwi3ufhr",
+  "accountname": "AUSTIN  BESHI",
+  "__v": 0
+},
+{
+  
+  "amount": "2100",
+  "date": {
+    "date": "2023-12-21T10:29:30.553Z"
+  },
+  "transactionType": "payout",
+  "order_no": "98sh4h",
+  "userId": "x6ei2jxdmca05x6v533zl",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_yhkgt39a568isje0",
+  "afterBalance": "82",
+  "recipient_code": "RCP_hyye3pac2rbehrw",
+  "accountname": "UGOCHUKWU PRINCE",
+  "__v": 0
+},
+{
+  
+  "amount": "1200",
+  "date": {
+    "date": "2023-12-21T10:29:34.398Z"
+  },
+  "transactionType": "payout",
+  "order_no": "dk5ur8",
+  "userId": "xrox79ztkakgoilbuakxqs",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_igz52t3a9q9fbcxu",
+  "afterBalance": "17",
+  "recipient_code": "RCP_05e8dxesjckn99b",
+  "accountname": "IBRAHIM  WUDIRI",
+  "__v": 0
+},
+{
+  
+  "amount": "2100",
+  "date": {
+    "date": "2023-12-21T10:29:29.537Z"
+  },
+  "transactionType": "payout",
+  "order_no": "j30plb",
+  "userId": "msds8yvw4tqoprdeywsp0m",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_zf4jvdgx4n559o33",
+  "afterBalance": "109",
+  "recipient_code": "RCP_4xwnbjvw3cvsl8j",
+  "accountname": "FARILLA WUSA",
+  "__v": 0
+},
+{
+  
+  "amount": "1000",
+  "date": {
+    "date": "2023-12-21T10:29:30.734Z"
+  },
+  "transactionType": "payout",
+  "order_no": "l4hg6p",
+  "userId": "28amsap7pvomsnfgr89vva",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_yrx321ccup5snoev",
+  "afterBalance": "66",
+  "recipient_code": "RCP_4qarki6klx032ns",
+  "accountname": "ADAH GIDEON OCHOLI",
+  "__v": 0
+},
+{
+  
+  "amount": "1000",
+  "date": {
+    "date": "2023-12-21T10:29:30.734Z"
+  },
+  "transactionType": "payout",
+  "order_no": "0zz6ck",
+  "userId": "jpfxh9h6x3h2lu5l42o6o9",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_pm5svdaijr4jqfbw",
+  "afterBalance": "718",
+  "recipient_code": "RCP_ut1mz4tdqqg2z1v",
+  "accountname": "ADILE MISAMARO DISHON",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-21T10:29:34.398Z"
+  },
+  "transactionType": "payout",
+  "order_no": "3u86zk",
+  "userId": "aqqcazft7shimx89x175o",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_0gpg5m2hvn6cj6m4",
+  "afterBalance": "666",
+  "recipient_code": "RCP_3r0uiy7zbdr5fey",
+  "accountname": "SINABIJINYI BARSISA ISHAYA",
+  "__v": 0
+},
+{
+  
+  "amount": "1600",
+  "date": {
+    "date": "2023-12-21T10:44:37.661Z"
+  },
+  "transactionType": "payout",
+  "order_no": "4ux1yb",
+  "userId": "zo7vle348csogr6gkay6d",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_swomkcbhgcz0bzg6",
+  "afterBalance": "67",
+  "recipient_code": "RCP_is31nmgtmmyuwjv",
+  "accountname": "GYADAL EMMANUEL JOHN",
+  "__v": 0
+},
+{
+  
+  "amount": "2000",
+  "date": {
+    "date": "2023-12-21T10:44:37.661Z"
+  },
+  "transactionType": "payout",
+  "order_no": "oziy55",
+  "userId": "i2m9si2xpkn4lfz4rfyns6",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_jbhdxncyx0714l5q",
+  "afterBalance": "60",
+  "recipient_code": "RCP_irclsb56g5mx9wm",
+  "accountname": "SAMSON  SAMUEL",
+  "__v": 0
+},
+{
+  
+  "amount": "3600",
+  "date": {
+    "date": "2023-12-21T10:29:29.537Z"
+  },
+  "transactionType": "payout",
+  "order_no": "98u9py",
+  "userId": "qtg63yyxlbfxjusg8kjg2",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_wmrefnk4khykpivq",
+  "afterBalance": "95",
+  "recipient_code": "RCP_st1tz9inwc5w7pa",
+  "accountname": "Jalo, Tanimala",
+  "__v": 0
+},
+{
+  
+  "amount": "3600",
+  "date": {
+    "date": "2023-12-21T10:44:37.590Z"
+  },
+  "transactionType": "payout",
+  "order_no": "8f5bsm",
+  "userId": "qtg63yyxlbfxjusg8kjg2",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_o6z5chur947ty3ho",
+  "afterBalance": "-3505",
+  "recipient_code": "RCP_st1tz9inwc5w7pa",
+  "accountname": "Jalo, Tanimala",
+  "__v": 0
+},
+{
+  
+  "amount": "2000",
+  "date": {
+    "date": "2023-12-21T10:29:29.537Z"
+  },
+  "transactionType": "payout",
+  "order_no": "d8wzwx",
+  "userId": "i2m9si2xpkn4lfz4rfyns6",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_vb8596aiudhfst3j",
+  "afterBalance": "-1940",
+  "recipient_code": "RCP_irclsb56g5mx9wm",
+  "accountname": "SAMSON  SAMUEL",
+  "__v": 0
+},
+{
+  
+  "amount": "100",
+  "date": {
+    "date": "2023-12-21T10:49:37.843Z"
+  },
+  "transactionType": "payout",
+  "order_no": "cw5dn7",
+  "userId": "c9mor1amd2703kd74pm8qrf",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_yecb5n4lrnihcj3f",
+  "afterBalance": "6900",
+  "recipient_code": "RCP_c9h1q49leigfigz",
+  "accountname": "NELSON   UHEMBE",
+  "__v": 0
+},
+{
+  
+  "amount": "11600",
+  "date": {
+    "date": "2023-12-21T10:29:29.537Z"
+  },
+  "transactionType": "payout",
+  "order_no": "9jbz3e",
+  "userId": "ogh7bwixokdxatmmuj3xmj",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_63d03vgprm1i2b0k",
+  "afterBalance": "3",
+  "recipient_code": "RCP_4yfpxe8cr22soyi",
+  "accountname": "BIRWULA AARON ZWAKAS",
+  "__v": 0
+},
+{
+  
+  "amount": "20000",
+  "date": {
+    "date": "2023-12-21T10:29:31.034Z"
+  },
+  "transactionType": "payout",
+  "order_no": "2bifnh",
+  "userId": "hcopii776upxltjr41z9l",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_awo7buz3hffxlu5r",
+  "afterBalance": "-17196",
+  "recipient_code": "RCP_ar68cdi7tg26957",
+  "accountname": "victor ojo yaro",
+  "__v": 0
+},
+{
+  
+  "amount": "100",
+  "date": {
+    "date": "2023-12-21T10:53:43.296Z"
+  },
+  "transactionType": "payout",
+  "order_no": "xay0wp",
+  "userId": "c9mor1amd2703kd74pm8qrf",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_y3sasmy82h3exm28",
+  "afterBalance": "6900",
+  "recipient_code": "RCP_c9h1q49leigfigz",
+  "accountname": "NELSON   UHEMBE",
+  "__v": 0
+},
+{
+  
+  "amount": "1010",
+  "date": {
+    "date": "2023-12-21T10:29:30.734Z"
+  },
+  "transactionType": "payout",
+  "order_no": "9qwehf",
+  "userId": "fqmhvxrl0w6ztgy16zfa8a",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_yxeizr10qvtsr5fy",
+  "afterBalance": "0",
+  "recipient_code": "RCP_5nlu66fkorfl6hq",
+  "accountname": "EZRA WATSAMARI WATSOMADA",
+  "__v": 0
+},
+{
+  
+  "amount": "3000",
+  "date": {
+    "date": "2023-12-21T10:57:13.990Z"
+  },
+  "transactionType": "payout",
+  "order_no": "ctos4k",
+  "userId": "i7vamopu4g9w9tn0vijima",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_akff6dmssr4mk7zk",
+  "afterBalance": "852",
+  "recipient_code": "RCP_3yfbmot0k0feh27",
+  "accountname": "JETHRO  ISHAYA",
+  "__v": 0
+},
+{
+  
+  "amount": "4100",
+  "date": {
+    "date": "2023-12-21T10:57:15.091Z"
+  },
+  "transactionType": "payout",
+  "order_no": "hcmnlm",
+  "userId": "f2a8i2r8izkoks59pzyry",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_x5ftdjuerx9ba088",
+  "afterBalance": "72",
+  "recipient_code": "RCP_cjmv86q5otjwx4u",
+  "accountname": "JOEL BWANGSONO ABSOLOM",
+  "__v": 0
+},
+{
+  
+  "amount": "1000",
+  "date": {
+    "date": "2023-12-21T10:57:15.091Z"
+  },
+  "transactionType": "payout",
+  "order_no": "hda8ft",
+  "userId": "it8q957xiehai9vhjsacqm",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_9pxlpsbfvjffoxuh",
+  "afterBalance": "50",
+  "recipient_code": "RCP_v8ve3a82rf08vl0",
+  "accountname": "Ijasini favour Emmanuel",
+  "__v": 0
+},
+{
+  
+  "amount": "4200",
+  "date": {
+    "date": "2023-12-21T10:57:14.574Z"
+  },
+  "transactionType": "payout",
+  "order_no": "fsrfna",
+  "userId": "wfil63xjwbiow22xwydz",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_3bypb581j3wmxkq2",
+  "afterBalance": "39",
+  "recipient_code": "RCP_wx57cbvmss45rnh",
+  "accountname": "GRACE  ALABI",
+  "__v": 0
+},
+{
+  
+  "amount": "2400",
+  "date": {
+    "date": "2023-12-21T10:57:14.574Z"
+  },
+  "transactionType": "payout",
+  "order_no": "s56apo",
+  "userId": "k4lufrplokrcsgcxrky17p",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_iw60vetvqg6rgsgv",
+  "afterBalance": "96",
+  "recipient_code": "RCP_enl90x4u9gzq53b",
+  "accountname": "JUSTICE JANTIKU MAMZ",
+  "__v": 0
+},
+{
+  
+  "amount": "15000",
+  "date": {
+    "date": "2023-12-21T10:57:14.452Z"
+  },
+  "transactionType": "payout",
+  "order_no": "isxs8h",
+  "userId": "vje10dmts144bluufn6s",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_e6j2is3n9manyazr",
+  "afterBalance": "211",
+  "recipient_code": "RCP_kjda1ho9l51ycsm",
+  "accountname": "ZUBAIRUDORATHY HUDSON",
+  "__v": 0
+},
+{
+  
+  "amount": "15000",
+  "date": {
+    "date": "2023-12-21T10:57:12.428Z"
+  },
+  "transactionType": "payout",
+  "order_no": "gy87s8",
+  "userId": "vje10dmts144bluufn6s",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_nglnkdzzad5eb3wc",
+  "afterBalance": "-14789",
+  "recipient_code": "RCP_kjda1ho9l51ycsm",
+  "accountname": "ZUBAIRUDORATHY HUDSON",
+  "__v": 0
+},
+{
+  
+  "amount": "15000",
+  "date": {
+    "date": "2023-12-21T10:57:14.574Z"
+  },
+  "transactionType": "payout",
+  "order_no": "qltoxm",
+  "userId": "vje10dmts144bluufn6s",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_w4nu22gvv3t5rmcl",
+  "afterBalance": "-14789",
+  "recipient_code": "RCP_kjda1ho9l51ycsm",
+  "accountname": "ZUBAIRUDORATHY HUDSON",
+  "__v": 0
+},
+{
+  
+  "amount": "1000",
+  "date": {
+    "date": "2023-12-21T10:57:14.574Z"
+  },
+  "transactionType": "payout",
+  "order_no": "e9ahm0",
+  "userId": "uy2xqlpnnx0igmdq68juo",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_iwzmqpak1btn4mc0",
+  "afterBalance": "35",
+  "recipient_code": "RCP_b85df2xht1au5ed",
+  "accountname": "JOSEPH USUJU EMMMANUEL",
+  "__v": 0
+},
+{
+  
+  "amount": "5200",
+  "date": {
+    "date": "2023-12-21T10:57:15.327Z"
+  },
+  "transactionType": "payout",
+  "order_no": "7lp4s7",
+  "userId": "hz72md00mdeehfxhqnws8",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_x5ksiodz5a4121hb",
+  "afterBalance": "130",
+  "recipient_code": "RCP_iq9ab2zfs8656k4",
+  "accountname": "AUWAL   YAU",
+  "__v": 0
+},
+{
+  
+  "amount": "4000",
+  "date": {
+    "date": "2023-12-21T10:57:12.832Z"
+  },
+  "transactionType": "payout",
+  "order_no": "jvs5ez",
+  "userId": "gb2931v8y5fgxe8pczyye",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_9lvlpafucodh0r3q",
+  "afterBalance": "209",
+  "recipient_code": "RCP_v75fm93epv90v78",
+  "accountname": "ROMEO GIWA",
+  "__v": 0
+},
+{
+  
+  "amount": "2960",
+  "date": {
+    "date": "2023-12-21T10:57:12.428Z"
+  },
+  "transactionType": "payout",
+  "order_no": "fdduvp",
+  "userId": "1k7ibuwy9kqho6o8w6kd7g",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_8ybpgdmoyjcc71bz",
+  "afterBalance": "1",
+  "recipient_code": "RCP_4f2rkjycikwabjh",
+  "accountname": "MNOMBIDI  TAKOBA",
+  "__v": 0
+},
+{
+  
+  "amount": "7000",
+  "date": {
+    "date": "2023-12-21T10:57:09.993Z"
+  },
+  "transactionType": "payout",
+  "order_no": "as6zy2",
+  "userId": "jmqqle7t8zivitfa6tr",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_gyx3cazh0dnxm9go",
+  "afterBalance": "284",
+  "recipient_code": "RCP_6n0abq5rusjh4ql",
+  "accountname": "ABRAHAM SERAH",
+  "__v": 0
+},
+{
+  
+  "amount": "6200",
+  "date": {
+    "date": "2023-12-21T10:57:09.993Z"
+  },
+  "transactionType": "payout",
+  "order_no": "2nylaj",
+  "userId": "kpw1ob4wzcolgxjp208l19",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_7h2x3blx9ltdibv2",
+  "afterBalance": "480",
+  "recipient_code": "RCP_m10e55qb9h49mub",
+  "accountname": "Meekyaah   Jodale",
+  "__v": 0
+},
+{
+  
+  "amount": "1000",
+  "date": {
+    "date": "2023-12-21T10:57:15.091Z"
+  },
+  "transactionType": "payout",
+  "order_no": "rpbm73",
+  "userId": "5dt9s703tfmyqfp3m8cvx",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_e6s0w5owvc2frffe",
+  "afterBalance": "150",
+  "recipient_code": "RCP_2fmiiutf5bghnqa",
+  "accountname": "CHINONSO WILFRED CHUKWUKEZIE",
+  "__v": 0
+},
+{
+  
+  "amount": "2000",
+  "date": {
+    "date": "2023-12-21T10:57:15.327Z"
+  },
+  "transactionType": "payout",
+  "order_no": "ywyx46",
+  "userId": "h8cndpea43lp7hnqv8osxj",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_7lqji06614ghkpkn",
+  "afterBalance": "355",
+  "recipient_code": "RCP_3kh790p18pzuztv",
+  "accountname": "SAMAILA  ALLEN",
+  "__v": 0
+},
+{
+  
+  "amount": "1000",
+  "date": {
+    "date": "2023-12-21T11:21:24.013Z"
+  },
+  "transactionType": "payout",
+  "order_no": "y8wijx",
+  "userId": "68wquhshgcdsgs5m0hsmi",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_xxwxovq0t3tlpi0g",
+  "afterBalance": "3",
+  "recipient_code": "RCP_t4gx7r9b6il00kj",
+  "accountname": "EMMANUEL LAWRENCE NTUEN",
+  "__v": 0
+},
+{
+  
+  "amount": "3000",
+  "date": {
+    "date": "2023-12-21T11:21:24.013Z"
+  },
+  "transactionType": "payout",
+  "order_no": "unuky3",
+  "userId": "3d6axmnrxdaraxe1spupw",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_04o62fodkmzwxomj",
+  "afterBalance": "110",
+  "recipient_code": "RCP_9zg6v1axptoz9nm",
+  "accountname": "ISHAKU IBRAHIM JOSEPH",
+  "__v": 0
+},
+{
+  
+  "amount": "3800",
+  "date": {
+    "date": "2023-12-21T11:33:23.620Z"
+  },
+  "transactionType": "payout",
+  "order_no": "zliyuk",
+  "userId": "sq3bynicng8douufeao2e",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_h4fyu1eslkhn4eed",
+  "afterBalance": "20",
+  "recipient_code": "RCP_j91afh09p3xxlej",
+  "accountname": "INUWA ATIKU MUHAMMED",
+  "__v": 0
+},
+{
+  
+  "amount": "1500",
+  "date": {
+    "date": "2023-12-21T11:38:21.837Z"
+  },
+  "transactionType": "payout",
+  "order_no": "em7fr5",
+  "userId": "ufxx561l7v4zvj5gg8rca",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_1mbv6yovtjav24pf",
+  "afterBalance": "2",
+  "recipient_code": "RCP_mnk9stf8bau1dgg",
+  "accountname": "mina benita ogolo",
+  "__v": 0
+},
+{
+  
+  "amount": "2400",
+  "date": {
+    "date": "2023-12-21T11:33:17.583Z"
+  },
+  "transactionType": "payout",
+  "order_no": "tt636k",
+  "userId": "vljm4th1ibfr8j31hp9pte",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_8hmggt25djzyrg41",
+  "afterBalance": "14",
+  "recipient_code": "RCP_0rrbdcgvk8zpuv0",
+  "accountname": "PEPETAPWA SIMON WILLIAMS",
+  "__v": 0
+},
+{
+  
+  "amount": "1000",
+  "date": {
+    "date": "2023-12-21T11:49:48.962Z"
+  },
+  "transactionType": "payout",
+  "order_no": "3gu8f4",
+  "userId": "z64a1lwuy1vn1raw67rhj",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_g9eubkkyth6nko2p",
+  "afterBalance": "33",
+  "recipient_code": "RCP_gteo0rw0t1kjebv",
+  "accountname": "BWALLAMGAM  NICODEMUS",
+  "__v": 0
+},
+{
+  
+  "amount": "2000",
+  "date": {
+    "date": "2023-12-21T11:49:48.962Z"
+  },
+  "transactionType": "payout",
+  "order_no": "bwk56g",
+  "userId": "lt2x0slqr2iezz1i1i318e",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_49afkpuf4l9x0fas",
+  "afterBalance": "119",
+  "recipient_code": "RCP_84wx8kexbbtlzef",
+  "accountname": "ANADION   STEPHEN",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-21T11:37:43.696Z"
+  },
+  "transactionType": "payout",
+  "order_no": "hg57ww",
+  "userId": "h1f6fd8jhsmn04oqdyuut",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_8hgrwxx4eag7vsj6",
+  "afterBalance": "205",
+  "recipient_code": "RCP_sdypdjj2s7kw2ai",
+  "accountname": "OKWOCHE EMMANUEL",
+  "__v": 0
+},
+{
+  
+  "amount": "1000",
+  "date": {
+    "date": "2023-12-21T11:58:15.914Z"
+  },
+  "transactionType": "payout",
+  "order_no": "d26j9e",
+  "userId": "jpfxh9h6x3h2lu5l42o6o9",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_q6xe4mhqcwnazgmt",
+  "afterBalance": "8",
+  "recipient_code": "RCP_ut1mz4tdqqg2z1v",
+  "accountname": "ADILE MISAMARO DISHON",
+  "__v": 0
+},
+{
+  
+  "amount": "3800",
+  "date": {
+    "date": "2023-12-21T11:51:32.069Z"
+  },
+  "transactionType": "payout",
+  "order_no": "q5b3bn",
+  "userId": "e5l56fxfdg62ts3v84t3pc",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_1s0cbgmqp7ulvuoo",
+  "afterBalance": "61",
+  "recipient_code": "RCP_637cmxiwf3njj6x",
+  "accountname": "LINUS  YOHANNA",
+  "__v": 0
+},
+{
+  
+  "amount": "3200",
+  "date": {
+    "date": "2023-12-21T11:58:37.305Z"
+  },
+  "transactionType": "payout",
+  "order_no": "5uwhls",
+  "userId": "jgm5b4r16q820m0u4cwrx",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_ceku1b8mwgob2kq4",
+  "afterBalance": "79",
+  "recipient_code": "RCP_h5skg8nyhjjdcz7",
+  "accountname": "ARIMA RUTH AMMA",
+  "__v": 0
+},
+{
+  
+  "amount": "8300",
+  "date": {
+    "date": "2023-12-21T12:10:54.909Z"
+  },
+  "transactionType": "payout",
+  "order_no": "gnr0zt",
+  "userId": "lm3jnsvdgj8vqc20bjp7n",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_p4kclefv0w5gu0jo",
+  "afterBalance": "100",
+  "recipient_code": "RCP_cs0shamessshlu3",
+  "accountname": "NORAH ISMAILU",
+  "__v": 0
+},
+{
+  
+  "amount": "2000",
+  "date": {
+    "date": "2023-12-21T12:10:58.603Z"
+  },
+  "transactionType": "payout",
+  "order_no": "oa4r98",
+  "userId": "92cm4orcxmslzpjtoj3vqp",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_4ibnehd26frcfh1c",
+  "afterBalance": "232",
+  "recipient_code": "RCP_h8sd6jiclkw0a3s",
+  "accountname": "Bukky  Bello",
+  "__v": 0
+},
+{
+  
+  "amount": "6200",
+  "date": {
+    "date": "2023-12-21T12:10:54.909Z"
+  },
+  "transactionType": "payout",
+  "order_no": "vzb8hb",
+  "userId": "nx3fffp9adg5in9r37ha0h",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_gi15fcaelnzr3joo",
+  "afterBalance": "14",
+  "recipient_code": "RCP_truseqgkpjy1e7k",
+  "accountname": "Bashir Muhammed Inuwa",
+  "__v": 0
+},
+{
+  
+  "amount": "1000.00",
+  "date": {
+    "date": "2023-12-21T12:10:54.909Z"
+  },
+  "transactionType": "payout",
+  "order_no": "cbm6a7",
+  "userId": "unzvvfqiivqh4gvnzeixnv",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_9ea7ng4xnlnpdzd1",
+  "afterBalance": "3552",
+  "recipient_code": "RCP_f6v596ne1wx5qkw",
+  "accountname": "shekwogeza kadima",
+  "__v": 0
+},
+{
+  
+  "amount": "1500",
+  "date": {
+    "date": "2023-12-21T12:10:59.402Z"
+  },
+  "transactionType": "payout",
+  "order_no": "px5d4u",
+  "userId": "4jkog17fdfyw3ufqtjmzeh",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_vf84kt157n14np0n",
+  "afterBalance": "63",
+  "recipient_code": "RCP_3l29tym2yfc5yul",
+  "accountname": "David   Livinus",
+  "__v": 0
+},
+{
+  
+  "amount": "3200",
+  "date": {
+    "date": "2023-12-21T12:10:58.603Z"
+  },
+  "transactionType": "payout",
+  "order_no": "pu8r00",
+  "userId": "1pcfphaf8uhep04ug68j0h",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_rkcncr527lw75x8r",
+  "afterBalance": "56",
+  "recipient_code": "RCP_mh06vvbewl1lh0i",
+  "accountname": "JAMES  PETER",
+  "__v": 0
+},
+{
+  
+  "amount": "2000",
+  "date": {
+    "date": "2023-12-21T12:12:35.613Z"
+  },
+  "transactionType": "payout",
+  "order_no": "ocilnh",
+  "userId": "adtrp77gf5f43zlym2phx",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_ow8qusny4p2w60y2",
+  "afterBalance": "167",
+  "recipient_code": "RCP_79pwgex1pch7dcu",
+  "accountname": "PWADENO PHILIP WUNAKAPWA",
+  "__v": 0
+},
+{
+  
+  "amount": "1050",
+  "date": {
+    "date": "2023-12-21T12:10:58.648Z"
+  },
+  "transactionType": "payout",
+  "order_no": "mtgjsk",
+  "userId": "b54z9xpf0k7k1d247axpg",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_rjr0crm0d0c67djs",
+  "afterBalance": "10",
+  "recipient_code": "RCP_wlg4i48dsoi0sj8",
+  "accountname": "ANATHOTH  ALHASSAN",
+  "__v": 0
+},
+{
+  
+  "amount": "2500",
+  "date": {
+    "date": "2023-12-21T12:12:35.613Z"
+  },
+  "transactionType": "payout",
+  "order_no": "pgmkkm",
+  "userId": "pk8svc860lpdhejsqr3mo",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_vesn3rcobefcyibq",
+  "afterBalance": "266",
+  "recipient_code": "RCP_w0tpn1jg14kxkbv",
+  "accountname": "ILIYA JEHOSHAPHAT",
+  "__v": 0
+},
+{
+  
+  "amount": "6000",
+  "date": {
+    "date": "2023-12-21T12:10:58.603Z"
+  },
+  "transactionType": "payout",
+  "order_no": "il2t9h",
+  "userId": "1j6tipd6c4whiz23ae3emu",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_9xukyb1b99vdusuo",
+  "afterBalance": "497",
+  "recipient_code": "RCP_9tmalyjbzwmg8rx",
+  "accountname": "ISMAILU KALLEMSWANG",
+  "__v": 0
+},
+{
+  
+  "amount": "3000",
+  "date": {
+    "date": "2023-12-21T12:10:58.648Z"
+  },
+  "transactionType": "payout",
+  "order_no": "ki138t",
+  "userId": "6vb52zndlv7mo0amjtvmrc",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_k2uzvn9ao8x6mis6",
+  "afterBalance": "546",
+  "recipient_code": "RCP_5yycqq4uc1fl91r",
+  "accountname": "NATHANIEL SAMUEL",
+  "__v": 0
+},
+{
+  
+  "amount": "3000.00",
+  "date": {
+    "date": "2023-12-21T12:13:04.019Z"
+  },
+  "transactionType": "payout",
+  "order_no": "yna66y",
+  "userId": "unzvvfqiivqh4gvnzeixnv",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_ymngk6mq1v5mzeju",
+  "afterBalance": "552",
+  "recipient_code": "RCP_f6v596ne1wx5qkw",
+  "accountname": "shekwogeza kadima",
+  "__v": 0
+},
+{
+  
+  "amount": "2800",
+  "date": {
+    "date": "2023-12-21T12:20:17.937Z"
+  },
+  "transactionType": "payout",
+  "order_no": "wc29zw",
+  "userId": "xuylh9cecsddpvzsezkjz6",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_jg3ajzv17daul5nd",
+  "afterBalance": "32",
+  "recipient_code": "RCP_tzntosjm9pbh9xr",
+  "accountname": "BLESSING  NELSON",
+  "__v": 0
+},
+{
+  
+  "amount": "1000",
+  "date": {
+    "date": "2023-12-21T12:22:01.786Z"
+  },
+  "transactionType": "payout",
+  "order_no": "9wauan",
+  "userId": "uoiwf9v7dvijosy4p4f627",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_6fla1uqfizid2mjp",
+  "afterBalance": "416",
+  "recipient_code": "RCP_5ca4tntvly4hfrk",
+  "accountname": "takopwa Dennis hamafyelto",
+  "__v": 0
+},
+{
+  
+  "amount": "2000",
+  "date": {
+    "date": "2023-12-21T12:10:59.770Z"
+  },
+  "transactionType": "payout",
+  "order_no": "v9mqtp",
+  "userId": "8dapsalhd6mqyy59rcodg",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_om6lx2gadubwug8y",
+  "afterBalance": "685",
+  "recipient_code": "RCP_012858125ihoy9v",
+  "accountname": "EMMANUEL   JESSE",
+  "__v": 0
+},
+{
+  
+  "amount": "4750",
+  "date": {
+    "date": "2023-12-21T12:20:36.133Z"
+  },
+  "transactionType": "payout",
+  "order_no": "baqoa5",
+  "userId": "pw6pvzm5pv963pl1khy8d",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_inbpt5utg6ousz9q",
+  "afterBalance": "31",
+  "recipient_code": "RCP_e9yeju7582q81nw",
+  "accountname": "Pascalis  Nepo",
+  "__v": 0
+},
+{
+  
+  "amount": "1200",
+  "date": {
+    "date": "2023-12-21T12:20:17.937Z"
+  },
+  "transactionType": "payout",
+  "order_no": "3imtfn",
+  "userId": "cywd2yfghrcmv3q3n73lp",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_loz26hg2rndfi2hl",
+  "afterBalance": "109",
+  "recipient_code": "RCP_qm8a1wskitgl6nq",
+  "accountname": "DAVID GODWIN OGWUCHE",
+  "__v": 0
+},
+{
+  
+  "amount": "1000",
+  "date": {
+    "date": "2023-12-21T12:40:30.582Z"
+  },
+  "transactionType": "payout",
+  "order_no": "lvk800",
+  "userId": "swfge8gy9hsm0p2pg2fc8l",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_96c3oraahbjopzj5",
+  "afterBalance": "45",
+  "recipient_code": "RCP_ue6ww840z4skhzo",
+  "accountname": "GUBAL  TAJNA",
+  "__v": 0
+},
+{
+  
+  "amount": "6000",
+  "date": {
+    "date": "2023-12-21T12:21:44.491Z"
+  },
+  "transactionType": "payout",
+  "order_no": "1meoxj",
+  "userId": "p1js6zqz5agmbjc11k07sc",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_8a21tc859h5tlyfh",
+  "afterBalance": "258",
+  "recipient_code": "RCP_crhgh4q8nmpjduy",
+  "accountname": "SUSAN PAUL ZOAKA",
+  "__v": 0
+},
+{
+  
+  "amount": "2300",
+  "date": {
+    "date": "2023-12-21T12:41:12.092Z"
+  },
+  "transactionType": "payout",
+  "order_no": "j06gln",
+  "userId": "6ux3ltrxz0c20f5ope6uuk",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_sasfwreo09ljhjg3",
+  "afterBalance": "27",
+  "recipient_code": "RCP_674clvx2hr9m9j4",
+  "accountname": "Israel Ofu Ali",
+  "__v": 0
+},
+{
+  
+  "amount": "1300",
+  "date": {
+    "date": "2023-12-21T12:41:12.092Z"
+  },
+  "transactionType": "payout",
+  "order_no": "qos31u",
+  "userId": "cqy8l9cqd7d8a822sui5w8",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_3z0ab79au7kezu01",
+  "afterBalance": "43",
+  "recipient_code": "RCP_ljxf0249er3anci",
+  "accountname": "NGARO NEWI MATHIAS",
+  "__v": 0
+},
+{
+  
+  "amount": "3300",
+  "date": {
+    "date": "2023-12-21T12:56:21.948Z"
+  },
+  "transactionType": "payout",
+  "order_no": "nwnvp7",
+  "userId": "fohwlnskwfus3cmzd71ah",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_t903pr1kwmi45r22",
+  "afterBalance": "5",
+  "recipient_code": "RCP_r0nzqarkjr6993a",
+  "accountname": "Dlama  Vandi",
+  "__v": 0
+},
+{
+  
+  "amount": "3150",
+  "date": {
+    "date": "2023-12-21T12:58:24.801Z"
+  },
+  "transactionType": "payout",
+  "order_no": "wv69w9",
+  "userId": "8cqhr8laqlcthpiswm3ck",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_qwsiecb78j983czi",
+  "afterBalance": "39",
+  "recipient_code": "RCP_r3o6gmzzk37k2qk",
+  "accountname": "WINNIFRED KUYET YARO",
+  "__v": 0
+},
+{
+  
+  "amount": "1000",
+  "date": {
+    "date": "2023-12-21T13:01:46.123Z"
+  },
+  "transactionType": "payout",
+  "order_no": "tlkbbn",
+  "userId": "038yejbr16c7pvclcp5zc7g",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_600mq9scc5jdv43s",
+  "afterBalance": "280",
+  "recipient_code": "RCP_lvy2lbkueziszpf",
+  "accountname": "SIRENTE TELU BEN",
+  "__v": 0
+},
+{
+  
+  "amount": "1000",
+  "date": {
+    "date": "2023-12-21T12:35:46.514Z"
+  },
+  "transactionType": "payout",
+  "order_no": "41pug6",
+  "userId": "phnonldtn905jtql63frn7",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_dv34hzm1jvrdltkn",
+  "afterBalance": "5",
+  "recipient_code": "RCP_cdmgyu6mje2wwje",
+  "accountname": "Micheal Bamisaye John",
+  "__v": 0
+},
+{
+  
+  "amount": "1000",
+  "date": {
+    "date": "2023-12-21T13:03:33.655Z"
+  },
+  "transactionType": "payout",
+  "order_no": "8rp6wy",
+  "userId": "jmh8h2giqqo9t10gt338vq",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_t93a9qlkhtffu867",
+  "afterBalance": "6",
+  "recipient_code": "RCP_x31gek383sbis4z",
+  "accountname": "SILAS  BAYO",
+  "__v": 0
+},
+{
+  
+  "amount": "1200",
+  "date": {
+    "date": "2023-12-21T13:04:20.428Z"
+  },
+  "transactionType": "payout",
+  "order_no": "pbo16n",
+  "userId": "rq7fpqphwhi5rpq02f27f",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_lpaamerxkpdfr418",
+  "afterBalance": "38",
+  "recipient_code": "RCP_vofdydbz6m0yn1z",
+  "accountname": "PWAMOREINO ALEXANDER DAUDA",
+  "__v": 0
+},
+{
+  
+  "amount": "1200",
+  "date": {
+    "date": "2023-12-21T12:48:06.641Z"
+  },
+  "transactionType": "payout",
+  "order_no": "k6c99z",
+  "userId": "0oa9yym8rpaa2l05mflhhh",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_mbvg24tw3vf2k9tv",
+  "afterBalance": "15",
+  "recipient_code": "RCP_t478n4szu0y66g0",
+  "accountname": "USMAN   SALAMATU",
+  "__v": 0
+},
+{
+  
+  "amount": "1000",
+  "date": {
+    "date": "2023-12-21T12:35:46.514Z"
+  },
+  "transactionType": "payout",
+  "order_no": "3yyob4",
+  "userId": "m4tyt4rawuos4tp7r9t4r7",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_8ueu6yt21nvc0s6k",
+  "afterBalance": "86",
+  "recipient_code": "RCP_q9sjqbjeth8qhbs",
+  "accountname": "Aaron Zwakas Mirchaulum",
+  "__v": 0
+},
+{
+  
+  "amount": "23500",
+  "date": {
+    "date": "2023-12-21T12:35:46.514Z"
+  },
+  "transactionType": "payout",
+  "order_no": "4hyvaq",
+  "userId": "lbjbohnui6f1pesfdpya9l",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_eqcp224v7ou6lup5",
+  "afterBalance": "535",
+  "recipient_code": "RCP_4eckwt84zazj04h",
+  "accountname": "DAIRYA BISAT GARBA",
+  "__v": 0
+},
+{
+  
+  "amount": "1400",
+  "date": {
+    "date": "2023-12-21T13:04:20.428Z"
+  },
+  "transactionType": "payout",
+  "order_no": "6hj75m",
+  "userId": "u5rubg4gfammv2m14yn7h",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_i135ho4rnzz2xe8r",
+  "afterBalance": "97",
+  "recipient_code": "RCP_82esaukrvbgxyhd",
+  "accountname": "Markus Homupito Hamafyelto",
+  "__v": 0
+},
+{
+  
+  "amount": "2000",
+  "date": {
+    "date": "2023-12-21T12:35:46.514Z"
+  },
+  "transactionType": "payout",
+  "order_no": "zd4psl",
+  "userId": "zhdwnagsso9aym8qb7gfc5",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_js2e4fdby3z5njma",
+  "afterBalance": "46",
+  "recipient_code": "RCP_ca0lbmjxy9fwpo1",
+  "accountname": "TANEAGBASO WALDO FRANCIS",
+  "__v": 0
+},
+{
+  
+  "amount": "3040",
+  "date": {
+    "date": "2023-12-21T12:52:04.938Z"
+  },
+  "transactionType": "payout",
+  "order_no": "5itvd6",
+  "userId": "mkp2xqnw4evoidja8jt4n",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_xk0zmse3azaunu0w",
+  "afterBalance": "1000",
+  "recipient_code": "RCP_mofeq20s6olc4bc",
+  "accountname": "JOHNSON  JOHN",
+  "__v": 0
+},
+{
+  
+  "amount": "2100",
+  "date": {
+    "date": "2023-12-21T13:10:38.666Z"
+  },
+  "transactionType": "payout",
+  "order_no": "bsuhx9",
+  "userId": "mqnp845oxded5ubryqtimw",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_bs7q2sj29hohp9fq",
+  "afterBalance": "73",
+  "recipient_code": "RCP_bt3l075lpio5twx",
+  "accountname": "AZEEZ BABATUNDE VINCENT",
+  "__v": 0
+},
+{
+  
+  "amount": "4500",
+  "date": {
+    "date": "2023-12-21T13:10:38.666Z"
+  },
+  "transactionType": "payout",
+  "order_no": "3wjabx",
+  "userId": "ch12j922kudr7wvdejvh4",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_12j4sy9fx20ww4if",
+  "afterBalance": "220",
+  "recipient_code": "RCP_1clbxflb1676kx9",
+  "accountname": "OKAH JULIUS CHIDIEBERE",
+  "__v": 0
+},
+{
+  
+  "amount": "7000",
+  "date": {
+    "date": "2023-12-21T12:48:06.641Z"
+  },
+  "transactionType": "payout",
+  "order_no": "tnpp6f",
+  "userId": "c5n70uw84l2sls7n89sqy",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_7h0s08jvtuao9nrf",
+  "afterBalance": "89",
+  "recipient_code": "RCP_qn334e8y6tahg46",
+  "accountname": "JOSEPH  JEDIEL",
+  "__v": 0
+},
+{
+  
+  "amount": "1750",
+  "date": {
+    "date": "2023-12-21T13:03:33.655Z"
+  },
+  "transactionType": "payout",
+  "order_no": "4s7ri3",
+  "userId": "qkrp3r59ddgvr8adqt122",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_t9ccmbtc0g8sa8e9",
+  "afterBalance": "15",
+  "recipient_code": "RCP_9hv5rl4xc8xb8pv",
+  "accountname": "NAHIWOPWA  BENSON",
+  "__v": 0
+},
+{
+  
+  "amount": "12300",
+  "date": {
+    "date": "2023-12-21T13:36:50.020Z"
+  },
+  "transactionType": "payout",
+  "order_no": "k2bsyi",
+  "userId": "qvbsemlebs082q9qvifkkr",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_tcjvdd89vmlnimlm",
+  "afterBalance": "36",
+  "recipient_code": "RCP_tvscjbigp9ojibq",
+  "accountname": "PAUDYECHAU  PATRICK",
+  "__v": 0
+},
+{
+  
+  "amount": "3070",
+  "date": {
+    "date": "2023-12-21T12:21:44.491Z"
+  },
+  "transactionType": "payout",
+  "order_no": "n7vkpt",
+  "userId": "geuup7o8xcjzkl4fexwjj",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_m1hnj74nsat46cuq",
+  "afterBalance": "2",
+  "recipient_code": "RCP_vujurfk1hv6eal0",
+  "accountname": "BENJAMIN KANTSWA ILIYA",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-21T12:48:06.641Z"
+  },
+  "transactionType": "payout",
+  "order_no": "9vut5c",
+  "userId": "xut02x4e3he3z6ou05eke",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_7vpr356o1ikcezbl",
+  "afterBalance": "439",
+  "recipient_code": "RCP_fheah5sxcsj6zd8",
+  "accountname": "UMARU YOHANNA",
+  "__v": 0
+},
+{
+  
+  "amount": "2000",
+  "date": {
+    "date": "2023-12-21T13:40:30.814Z"
+  },
+  "transactionType": "payout",
+  "order_no": "tgdkyk",
+  "userId": "hynxs8wxj7wggasm2bwk0k",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_s9v1p80da5b4z3i8",
+  "afterBalance": "5",
+  "recipient_code": "RCP_wk7dywt0b8997v2",
+  "accountname": "USMAN B USMAN",
+  "__v": 0
+},
+{
+  
+  "amount": "2600",
+  "date": {
+    "date": "2023-12-21T13:41:47.318Z"
+  },
+  "transactionType": "payout",
+  "order_no": "ev8vdz",
+  "userId": "pxlxekfq7igjboycahmlwj",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_he4rz8ohbbnlvqhc",
+  "afterBalance": "43",
+  "recipient_code": "RCP_aiflkf7p0ghfp1h",
+  "accountname": "OLAJUMOKE ODEDOKUN",
+  "__v": 0
+},
+{
+  
+  "amount": "1600",
+  "date": {
+    "date": "2023-12-21T13:42:30.697Z"
+  },
+  "transactionType": "payout",
+  "order_no": "mej0a8",
+  "userId": "i9vyeta3ygmjrejopcqj",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_69y6zl1dgark7ph5",
+  "afterBalance": "590",
+  "recipient_code": "RCP_xuq89nwpatc7zo5",
+  "accountname": "Bemsen David Hemen",
+  "__v": 0
+},
+{
+  
+  "amount": "1600",
+  "date": {
+    "date": "2023-12-21T13:36:09.885Z"
+  },
+  "transactionType": "payout",
+  "order_no": "9g8c5w",
+  "userId": "i9vyeta3ygmjrejopcqj",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_tp9pgd4nft5tzsdx",
+  "afterBalance": "-1010",
+  "recipient_code": "RCP_xuq89nwpatc7zo5",
+  "accountname": "Bemsen David Hemen",
+  "__v": 0
+},
+{
+  
+  "amount": "1600",
+  "date": {
+    "date": "2023-12-21T13:41:47.318Z"
+  },
+  "transactionType": "payout",
+  "order_no": "7xratz",
+  "userId": "i9vyeta3ygmjrejopcqj",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_7gwpzq7m4v9m207j",
+  "afterBalance": "-1010",
+  "recipient_code": "RCP_xuq89nwpatc7zo5",
+  "accountname": "Bemsen David Hemen",
+  "__v": 0
+},
+{
+  
+  "amount": "1600",
+  "date": {
+    "date": "2023-12-21T13:46:40.013Z"
+  },
+  "transactionType": "payout",
+  "order_no": "xrgtxj",
+  "userId": "i9vyeta3ygmjrejopcqj",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_dksylsu1ypdabtg9",
+  "afterBalance": "-2610",
+  "recipient_code": "RCP_xuq89nwpatc7zo5",
+  "accountname": "Bemsen David Hemen",
+  "__v": 0
+},
+{
+  
+  "amount": "1600",
+  "date": {
+    "date": "2023-12-21T13:36:50.020Z"
+  },
+  "transactionType": "payout",
+  "order_no": "il8cew",
+  "userId": "i9vyeta3ygmjrejopcqj",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_gthgput9v1mwboke",
+  "afterBalance": "-4210",
+  "recipient_code": "RCP_xuq89nwpatc7zo5",
+  "accountname": "Bemsen David Hemen",
+  "__v": 0
+},
+{
+  
+  "amount": "1600",
+  "date": {
+    "date": "2023-12-21T13:53:00.481Z"
+  },
+  "transactionType": "payout",
+  "order_no": "sm6vez",
+  "userId": "mi299h87tg1phvlasnjtv",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_jq7oz0f3kvpxna9p",
+  "afterBalance": "5",
+  "recipient_code": "RCP_ewhl7hxiruowvxw",
+  "accountname": "ELMINA  Takoba",
+  "__v": 0
+},
+{
+  
+  "amount": "1000",
+  "date": {
+    "date": "2023-12-21T13:57:19.950Z"
+  },
+  "transactionType": "payout",
+  "order_no": "0p8h9y",
+  "userId": "lt2x0slqr2iezz1i1i318e",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_isjbspl7e3uldklf",
+  "afterBalance": "14",
+  "recipient_code": "RCP_84wx8kexbbtlzef",
+  "accountname": "ANADION   STEPHEN",
+  "__v": 0
+},
+{
+  
+  "amount": "6000",
+  "date": {
+    "date": "2023-12-21T14:02:52.476Z"
+  },
+  "transactionType": "payout",
+  "order_no": "pyjc5q",
+  "userId": "m095poif3e8a430zweq15",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_57m3wl0hgox3j0fj",
+  "afterBalance": "1516",
+  "recipient_code": "RCP_ylt9w2zlbdc5wz6",
+  "accountname": "WALATO GRACE",
+  "__v": 0
+},
+{
+  
+  "amount": "16000",
+  "date": {
+    "date": "2023-12-21T14:10:33.536Z"
+  },
+  "transactionType": "payout",
+  "order_no": "pbyeys",
+  "userId": "jys5xkt40citqgqksn0dei",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_4qi45nr3oyuv3xr5",
+  "afterBalance": "310",
+  "recipient_code": "RCP_jqrasza7nlzpa92",
+  "accountname": "Pwanadeino  William",
+  "__v": 0
+},
+{
+  
+  "amount": "1000",
+  "date": {
+    "date": "2023-12-21T14:13:28.166Z"
+  },
+  "transactionType": "payout",
+  "order_no": "5i4nuc",
+  "userId": "zynz5mtsh9pqwrtr3pfxe",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_0fjo352atsa355pz",
+  "afterBalance": "40",
+  "recipient_code": "RCP_ncriqrikkqmsom5",
+  "accountname": "BENSON  FRANK",
+  "__v": 0
+},
+{
+  
+  "amount": "1000.00",
+  "date": {
+    "date": "2023-12-21T14:12:34.368Z"
+  },
+  "transactionType": "payout",
+  "order_no": "scp25a",
+  "userId": "unzvvfqiivqh4gvnzeixnv",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_6d7jdyah7tdtaotd",
+  "afterBalance": "2",
+  "recipient_code": "RCP_f6v596ne1wx5qkw",
+  "accountname": "shekwogeza kadima",
+  "__v": 0
+},
+{
+  
+  "amount": "2222",
+  "date": {
+    "date": "2023-12-21T14:10:22.737Z"
+  },
+  "transactionType": "payout",
+  "order_no": "hmjr7c",
+  "userId": "9y01r061w6j60umi5pupw",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_z42ebqyrob7wlq06",
+  "afterBalance": "38",
+  "recipient_code": "RCP_3974e9vouwknxky",
+  "accountname": "OBADIAH  EDWARD",
+  "__v": 0
+},
+{
+  
+  "amount": "1000",
+  "date": {
+    "date": "2023-12-21T14:17:32.661Z"
+  },
+  "transactionType": "payout",
+  "order_no": "e40x93",
+  "userId": "fg9k1kzj41dtzh67jf72p",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_lvm891awcgvi44wg",
+  "afterBalance": "14",
+  "recipient_code": "RCP_kpv8escvyiu6kgw",
+  "accountname": "MOSES GODWILL",
+  "__v": 0
+},
+{
+  
+  "amount": "4100",
+  "date": {
+    "date": "2023-12-21T14:20:33.672Z"
+  },
+  "transactionType": "payout",
+  "order_no": "nc1gww",
+  "userId": "9eanh8i13hcvp209kbhp8k",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_25177f304u1za1vj",
+  "afterBalance": "35",
+  "recipient_code": "RCP_hvphen689n6p5w7",
+  "accountname": "Felix Joseph Ali",
+  "__v": 0
+},
+{
+  
+  "amount": "1200",
+  "date": {
+    "date": "2023-12-21T14:25:02.280Z"
+  },
+  "transactionType": "payout",
+  "order_no": "eomuas",
+  "userId": "h8cndpea43lp7hnqv8osxj",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_g7bfund0elkut2am",
+  "afterBalance": "200",
+  "recipient_code": "RCP_3kh790p18pzuztv",
+  "accountname": "SAMAILA  ALLEN",
+  "__v": 0
+},
+{
+  
+  "amount": "10000",
+  "date": {
+    "date": "2023-12-21T14:27:24.636Z"
+  },
+  "transactionType": "payout",
+  "order_no": "i2yv4g",
+  "userId": "ynusp3z4t7oixq74vfnv9a",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_3fjpoehpe8srnegp",
+  "afterBalance": "4504",
+  "recipient_code": "RCP_kpyjjlb7janfwht",
+  "accountname": "JOSEPH AHKSOM JALLO",
+  "__v": 0
+},
+{
+  
+  "amount": "1000",
+  "date": {
+    "date": "2023-12-21T14:29:57.860Z"
+  },
+  "transactionType": "payout",
+  "order_no": "6xcq0z",
+  "userId": "besnbfctczpupazdwjpro",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_ljugciw6x4xc1w10",
+  "afterBalance": "25",
+  "recipient_code": "RCP_1byb323q34eigbf",
+  "accountname": "CHARLES AKINYELE AKINSIPE",
+  "__v": 0
+},
+{
+  
+  "amount": "4300",
+  "date": {
+    "date": "2023-12-21T14:32:13.990Z"
+  },
+  "transactionType": "payout",
+  "order_no": "ssbvam",
+  "userId": "ynusp3z4t7oixq74vfnv9a",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_5ceep4oa85hpb617",
+  "afterBalance": "204",
+  "recipient_code": "RCP_kpyjjlb7janfwht",
+  "accountname": "JOSEPH AHKSOM JALLO",
+  "__v": 0
+},
+{
+  
+  "amount": "1000",
+  "date": {
+    "date": "2023-12-21T14:32:13.990Z"
+  },
+  "transactionType": "payout",
+  "order_no": "nbv3d7",
+  "userId": "u5bdoatxi8n4azofnt3hj",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_3998ty5fzxid5sm0",
+  "afterBalance": "270",
+  "recipient_code": "RCP_qjul5gf0u9a9igq",
+  "accountname": "YUSUF SALIM MAIWADA",
+  "__v": 0
+},
+{
+  
+  "amount": "1000",
+  "date": {
+    "date": "2023-12-21T14:32:13.990Z"
+  },
+  "transactionType": "payout",
+  "order_no": "852fag",
+  "userId": "efrd15ukejch01ub05ns59",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_35493idu8qj3q5ew",
+  "afterBalance": "42",
+  "recipient_code": "RCP_z0o9cur7ic05j21",
+  "accountname": "SARKINNOMA BENSON BEDAN",
+  "__v": 0
+},
+{
+  
+  "amount": "1100",
+  "date": {
+    "date": "2023-12-21T14:29:05.810Z"
+  },
+  "transactionType": "payout",
+  "order_no": "a0t2zq",
+  "userId": "d4uk9x8l19hedplbx4fwxf",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_3cncqd0wwhzc1yaq",
+  "afterBalance": "115",
+  "recipient_code": "RCP_s6eloqaxe5uk0tv",
+  "accountname": "Abigail  Tonga",
+  "__v": 0
+},
+{
+  
+  "amount": "1000",
+  "date": {
+    "date": "2023-12-21T14:30:24.570Z"
+  },
+  "transactionType": "payout",
+  "order_no": "w0jn2y",
+  "userId": "d6q5rvpamav6rp0e0y4ahd",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_xqz67hklvvbq7p71",
+  "afterBalance": "41",
+  "recipient_code": "RCP_vod7rmpaggtjmre",
+  "accountname": "BALA ISHAKU",
+  "__v": 0
+},
+{
+  
+  "amount": "4000",
+  "date": {
+    "date": "2023-12-21T14:30:24.570Z"
+  },
+  "transactionType": "payout",
+  "order_no": "rq7utm",
+  "userId": "76iqebx6s6221p3wonj9ay",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_22husl9uugptav6z",
+  "afterBalance": "75",
+  "recipient_code": "RCP_z6vzg9ovy91feof",
+  "accountname": "FATIMA  IBRAHIM",
+  "__v": 0
+},
+{
+  
+  "amount": "1000",
+  "date": {
+    "date": "2023-12-21T14:30:24.570Z"
+  },
+  "transactionType": "payout",
+  "order_no": "w28oqt",
+  "userId": "cvo1lvjtdbfh4yg7zmqqbh",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_wkv7rgyx99gzepcn",
+  "afterBalance": "16",
+  "recipient_code": "RCP_rffyn5zg4q8bn1h",
+  "accountname": "SOLOMON BOKIDO PETER",
+  "__v": 0
+},
+{
+  
+  "amount": "8600",
+  "date": {
+    "date": "2023-12-21T14:42:19.629Z"
+  },
+  "transactionType": "payout",
+  "order_no": "sbmoiu",
+  "userId": "j6ah8t9p3ad2rrt10l49p",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_9allhg52ppycwqdm",
+  "afterBalance": "400",
+  "recipient_code": "RCP_i6vvwnisl30s29h",
+  "accountname": "JOSEPH ERMURAM JALLO",
+  "__v": 0
+},
+{
+  
+  "amount": "5700",
+  "date": {
+    "date": "2023-12-21T14:29:57.860Z"
+  },
+  "transactionType": "payout",
+  "order_no": "ecmzxc",
+  "userId": "0a549cq37naw7ykwah2yndp",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_2p6zqqrcpgwoc1la",
+  "afterBalance": "6",
+  "recipient_code": "RCP_um617hykdvoj76a",
+  "accountname": "BENSHAK JOSEPH SODE",
+  "__v": 0
+},
+{
+  
+  "amount": "1000",
+  "date": {
+    "date": "2023-12-21T14:29:05.810Z"
+  },
+  "transactionType": "payout",
+  "order_no": "haya3m",
+  "userId": "d26j1epuvjjkjuemqof579",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_i1xat8qz9wykyx22",
+  "afterBalance": "180",
+  "recipient_code": "RCP_nrc99qcoxml83io",
+  "accountname": "ANNA GYOSMEN HABILA",
+  "__v": 0
+},
+{
+  
+  "amount": "1000",
+  "date": {
+    "date": "2023-12-21T14:42:19.629Z"
+  },
+  "transactionType": "payout",
+  "order_no": "4xlgya",
+  "userId": "cyl349l46c8zc7dhgpw53",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_4w1l13cq7c4iu43t",
+  "afterBalance": "14049",
+  "recipient_code": "RCP_emts21dp0vr2spf",
+  "accountname": "MAKERI DORCAS JIWE",
+  "__v": 0
+},
+{
+  
+  "amount": "2740",
+  "date": {
+    "date": "2023-12-21T14:45:46.301Z"
+  },
+  "transactionType": "payout",
+  "order_no": "y3qjy4",
+  "userId": "hwfiuaofvwuu7m68bst2pl",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_4axv4h94o1i1ejo5",
+  "afterBalance": "10",
+  "recipient_code": "RCP_9ipuf10jh8wkx26",
+  "accountname": "JOHN FELICIA",
+  "__v": 0
+},
+{
+  
+  "amount": "10000",
+  "date": {
+    "date": "2023-12-21T14:45:46.301Z"
+  },
+  "transactionType": "payout",
+  "order_no": "evgtfg",
+  "userId": "2z1m03oleg8apcryqitqlf",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_07w2vl0u45r4rkxj",
+  "afterBalance": "591",
+  "recipient_code": "RCP_39jw2noog5vh0po",
+  "accountname": "Zaher Cholough",
+  "__v": 0
+},
+{
+  
+  "amount": "3200",
+  "date": {
+    "date": "2023-12-21T14:45:46.301Z"
+  },
+  "transactionType": "payout",
+  "order_no": "r8lzwh",
+  "userId": "q0tcu3r3pkn49rf7kb9rnm",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_ler0pot768tfscsf",
+  "afterBalance": "73",
+  "recipient_code": "RCP_58gpabghoaz4a3r",
+  "accountname": "OLADEJI TOLULOPE",
+  "__v": 0
+},
+{
+  
+  "amount": "1200",
+  "date": {
+    "date": "2023-12-21T15:03:41.374Z"
+  },
+  "transactionType": "payout",
+  "order_no": "ukd900",
+  "userId": "m4tyt4rawuos4tp7r9t4r7",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_9mkq2eerakgix8p3",
+  "afterBalance": "26",
+  "recipient_code": "RCP_q9sjqbjeth8qhbs",
+  "accountname": "Aaron Zwakas Mirchaulum",
+  "__v": 0
+},
+{
+  
+  "amount": "1300",
+  "date": {
+    "date": "2023-12-21T15:14:59.685Z"
+  },
+  "transactionType": "payout",
+  "order_no": "a8w0kd",
+  "userId": "ndbmy08a1ijz7svkklsqvs",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_p685hn34vgtvirrr",
+  "afterBalance": "155",
+  "recipient_code": "RCP_x1neguiye1ku3u3",
+  "accountname": "ISSACHAR MYABOGOPWA KULARI",
+  "__v": 0
+},
+{
+  
+  "amount": "1300",
+  "date": {
+    "date": "2023-12-21T15:14:59.917Z"
+  },
+  "transactionType": "payout",
+  "order_no": "zcsbrt",
+  "userId": "ndbmy08a1ijz7svkklsqvs",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_0iw0po6ypqzldynm",
+  "afterBalance": "-1145",
+  "recipient_code": "RCP_x1neguiye1ku3u3",
+  "accountname": "ISSACHAR MYABOGOPWA KULARI",
+  "__v": 0
+},
+{
+  
+  "amount": "100",
+  "date": {
+    "date": "2023-12-21T19:12:25.245Z"
+  },
+  "transactionType": "payout",
+  "order_no": "elzx3c",
+  "userId": "zy169bay7hc1018cped1jjp",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_9rbbloti0eqcg9ho",
+  "afterBalance": "935",
+  "recipient_code": "RCP_4r775p1ra27kvqk",
+  "accountname": "GABRIEL  SHAIBU",
+  "__v": 0
+},
+{
+  
+  "amount": "100",
+  "date": {
+    "date": "2023-12-21T20:56:04.139Z"
+  },
+  "transactionType": "payout",
+  "order_no": "abq16a",
+  "userId": "c5suwcl46vuzw2gg6hdc4e",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_wnh55496azn6v86r",
+  "afterBalance": "1440",
+  "recipient_code": "RCP_k5wlirma50fivv9",
+  "accountname": "HYELLAKITY  JOHN",
+  "__v": 0
+},
+{
+  
+  "amount": "100",
+  "date": {
+    "date": "2023-12-21T20:56:04.139Z"
+  },
+  "transactionType": "payout",
+  "order_no": "7r73xi",
+  "userId": "c5suwcl46vuzw2gg6hdc4e",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_c7x96pzazwzz2u3d",
+  "afterBalance": "1340",
+  "recipient_code": "RCP_k5wlirma50fivv9",
+  "accountname": "HYELLAKITY  JOHN",
+  "__v": 0
+},
+{
+  
+  "amount": "100",
+  "date": {
+    "date": "2023-12-21T20:47:31.678Z"
+  },
+  "transactionType": "payout",
+  "order_no": "deppa0",
+  "userId": "c5suwcl46vuzw2gg6hdc4e",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_btbrend17k4p7kro",
+  "afterBalance": "1240",
+  "recipient_code": "RCP_k5wlirma50fivv9",
+  "accountname": "HYELLAKITY  JOHN",
+  "__v": 0
+},
+{
+  
+  "amount": "100",
+  "date": {
+    "date": "2023-12-21T21:04:31.560Z"
+  },
+  "transactionType": "payout",
+  "order_no": "uyhk0a",
+  "userId": "c5suwcl46vuzw2gg6hdc4e",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "TRF_egks55zs0ckgx8x1",
+  "afterBalance": "1140",
+  "recipient_code": "RCP_k5wlirma50fivv9",
+  "accountname": "HYELLAKITY  JOHN",
+  "__v": 0
+},
+{
+  
+  "amount": "210",
+  "date": {
+    "date": "2023-12-27T13:31:08.743Z"
+  },
+  "transactionType": "payout",
+  "order_no": "pmaa3l",
+  "userId": "c9mor1amd2703kd74pm8qrf",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "ixohn0aizs",
+  "afterBalance": "6690",
+  "accountname": "NELSON   UHEMBE",
+  "__v": 0
+},
+{
+  
+  "amount": "200",
+  "date": {
+    "date": "2023-12-27T13:48:28.925Z"
+  },
+  "transactionType": "payout",
+  "order_no": "3tk0o2",
+  "userId": "c9mor1amd2703kd74pm8qrf",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "bxh0hxr4e7",
+  "afterBalance": "6490",
+  "accountname": "MEHTIC(KWATI/Kara Ads)",
+  "__v": 0
+},
+{
+  
+  "amount": "100",
+  "date": {
+    "date": "2023-12-27T13:59:58.795Z"
+  },
+  "transactionType": "payout",
+  "order_no": "7l70te",
+  "userId": "c9mor1amd2703kd74pm8qrf",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "vn8ye184ag",
+  "afterBalance": "6390",
+  "accountname": "MEHTIC(KWATI/Kara Ads)",
+  "__v": 0
+},
+{
+  
+  "amount": "200",
+  "date": {
+    "date": "2023-12-27T14:55:29.270Z"
+  },
+  "transactionType": "payout",
+  "order_no": "72v50v",
+  "userId": "c9mor1amd2703kd74pm8qrf",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "6raqnpao16",
+  "afterBalance": "5790",
+  "accountname": "MEHTIC(KWATI/Mnombidi Takoba)",
+  "__v": 0
+},
+{
+  
+  "amount": "200",
+  "date": {
+    "date": "2023-12-27T14:55:29.270Z"
+  },
+  "transactionType": "payout",
+  "order_no": "cd4dpp",
+  "userId": "c9mor1amd2703kd74pm8qrf",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "26ry149u1q",
+  "afterBalance": "5590",
+  "accountname": "MEHTIC(KWATI/Mnombidi Takoba)",
+  "__v": 0
+},
+{
+  
+  "amount": "200",
+  "date": {
+    "date": "2023-12-28T06:40:45.865Z"
+  },
+  "transactionType": "payout",
+  "order_no": "mghu31",
+  "userId": "c9mor1amd2703kd74pm8qrf",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "j7yte9f24u",
+  "afterBalance": "5390",
+  "accountname": "MEHTIC(KWATI/Mnombidi Takoba)",
+  "__v": 0
+},
+{
+  
+  "amount": "200",
+  "date": {
+    "date": "2023-12-28T08:14:28.604Z"
+  },
+  "transactionType": "payout",
+  "order_no": "cgdzku",
+  "userId": "c9mor1amd2703kd74pm8qrf",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "nzr54s4q06",
+  "afterBalance": "5190",
+  "accountname": "NELSON   UHEMBE",
+  "__v": 0
+},
+{
+  
+  "amount": "200",
+  "date": {
+    "date": "2023-12-28T08:14:28.604Z"
+  },
+  "transactionType": "payout",
+  "order_no": "dlpgbb",
+  "userId": "c9mor1amd2703kd74pm8qrf",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "l4oh5uifgj",
+  "afterBalance": "4990",
+  "accountname": "NELSON   UHEMBE",
+  "__v": 0
+},
+{
+  
+  "amount": "200",
+  "date": {
+    "date": "2023-12-28T08:14:28.604Z"
+  },
+  "transactionType": "payout",
+  "order_no": "lvpwcl",
+  "userId": "c9mor1amd2703kd74pm8qrf",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "9lobqkf504",
+  "afterBalance": "4790",
+  "accountname": "NELSON   UHEMBE",
+  "__v": 0
+},
+{
+  
+  "amount": "100",
+  "date": {
+    "date": "2023-12-28T08:14:28.604Z"
+  },
+  "transactionType": "payout",
+  "order_no": "cf2i7y",
+  "userId": "c9mor1amd2703kd74pm8qrf",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "81hi4i9ibi",
+  "afterBalance": "4690",
+  "accountname": "NELSON   UHEMBE",
+  "__v": 0
+},
+{
+  
+  "amount": "100",
+  "date": {
+    "date": "2023-12-28T08:14:28.604Z"
+  },
+  "transactionType": "payout",
+  "order_no": "ae0zlq",
+  "userId": "c9mor1amd2703kd74pm8qrf",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "40x0hgsn8h",
+  "afterBalance": "4590",
+  "accountname": "NELSON   UHEMBE",
+  "__v": 0
+},
+{
+  
+  "amount": "1020",
+  "date": {
+    "date": "2023-12-28T17:25:48.979Z"
+  },
+  "transactionType": "payout",
+  "order_no": "cmwpwe",
+  "userId": "q635ghg78btc8eyrnz854a",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "txzy14c5cs",
+  "afterBalance": "20",
+  "accountname": "MATHIAS OCHE AKIN",
+  "__v": 0
+},
+{
+  
+  "amount": "2200",
+  "date": {
+    "date": "2023-12-28T17:30:05.516Z"
+  },
+  "transactionType": "payout",
+  "order_no": "qnoxo8",
+  "userId": "e690tu2syiuzq9tvggr8c",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "grck35sqaz",
+  "afterBalance": "20",
+  "accountname": "SALMON LOVELY LIPSEY",
+  "__v": 0
+},
+{
+  
+  "amount": "110",
+  "date": {
+    "date": "2023-12-28T20:23:42.090Z"
+  },
+  "transactionType": "payout",
+  "order_no": "ykwd8y",
+  "userId": "c9mor1amd2703kd74pm8qrf",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "xmokmh6v3i",
+  "afterBalance": "4265",
+  "accountname": "NELSON   UHEMBE",
+  "__v": 0
+},
+{
+  
+  "amount": "110",
+  "date": {
+    "date": "2023-12-28T20:27:25.424Z"
+  },
+  "transactionType": "payout",
+  "order_no": "zok5qw",
+  "userId": "c9mor1amd2703kd74pm8qrf",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "0jy8qb3qfkf",
+  "afterBalance": "4155",
+  "accountname": "MEHTIC(KWATI/Mnombidi Takoba)",
+  "__v": 0
+},
+{
+  
+  "amount": "100",
+  "date": {
+    "date": "2023-12-28T20:33:51.324Z"
+  },
+  "transactionType": "payout",
+  "order_no": "0agrtx",
+  "userId": "c9mor1amd2703kd74pm8qrf",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "tbm488cczc",
+  "afterBalance": "4055",
+  "accountname": "MEHTIC(KWATI/Mnombidi Takoba)",
+  "__v": 0
+},
+{
+  
+  "amount": "1000",
+  "date": {
+    "date": "2023-12-28T21:55:19.738Z"
+  },
+  "transactionType": "payout",
+  "order_no": "cwrajb",
+  "userId": "9ug81s8ydojyq75pwgewd",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "lsh4fn9jwtb",
+  "afterBalance": "149000",
+  "accountname": "SHARON ENE DORDIP",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-28T21:55:15.286Z"
+  },
+  "transactionType": "payout",
+  "order_no": "06yltl",
+  "userId": "kex3hfvs37c08c03h1oxn",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "t6qrsg5kuv",
+  "afterBalance": "44739",
+  "accountname": "MEHTIC(KWATI/Wisdom Kwati)",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T16:49:15.821Z"
+  },
+  "transactionType": "payout",
+  "order_no": "ej8s0i",
+  "userId": "6vb52zndlv7mo0amjtvmrc",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "2vkil395hon",
+  "afterBalance": "7137",
+  "accountname": "NATHANIEL SAMUEL",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T18:54:16.423Z"
+  },
+  "transactionType": "payout",
+  "order_no": "wg0mpy",
+  "userId": "1k7ibuwy9kqho6o8w6kd7g",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "tf8ea03q5j",
+  "afterBalance": "19775",
+  "accountname": "MNOMBIDI  TAKOBA",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T17:42:41.449Z"
+  },
+  "transactionType": "payout",
+  "order_no": "idldqr",
+  "userId": "f1w1mykmsdpql4kh5yked",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "ktkrxe2edq7",
+  "afterBalance": "15849",
+  "accountname": "BEDAN BERIS SARKIN",
+  "__v": 0
+},
+{
+  
+  "amount": "4580",
+  "date": {
+    "date": "2023-12-29T18:30:03.903Z"
+  },
+  "transactionType": "payout",
+  "order_no": "tqwkvo",
+  "userId": "nx3fffp9adg5in9r37ha0h",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "lx0aiifl62e",
+  "afterBalance": "6",
+  "accountname": "INUWA BASHIR MUHAMMED",
+  "__v": 0
+},
+{
+  
+  "amount": "1400",
+  "date": {
+    "date": "2023-12-29T17:57:23.381Z"
+  },
+  "transactionType": "payout",
+  "order_no": "7i9kvk",
+  "userId": "d3cl4nl7iffugjih1jizoq",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "4cjm9t6v8zu",
+  "afterBalance": "12",
+  "accountname": "MEHTIC(KWATI/bamaiyi Jonathan)",
+  "__v": 0
+},
+{
+  
+  "amount": "1147",
+  "date": {
+    "date": "2023-12-29T19:09:37.976Z"
+  },
+  "transactionType": "payout",
+  "order_no": "qaebmt",
+  "userId": "joec522id6p3m0z95w2eo6",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "fitkquuxf3q",
+  "afterBalance": "0",
+  "accountname": "YOHANNA, JULIUS",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T18:54:16.423Z"
+  },
+  "transactionType": "payout",
+  "order_no": "ss6y20",
+  "userId": "zhkvly7mnpfeee2gbrdabu",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "at27jxn0orl",
+  "afterBalance": "15208",
+  "accountname": "MEHTIC(KWATI/umar baba)",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:12:14.025Z"
+  },
+  "transactionType": "payout",
+  "order_no": "xt9b3p",
+  "userId": "87ppzc4zusmzkj9s8dcwy",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "zj8pgfg47u",
+  "afterBalance": "3530",
+  "accountname": "JOY  SOLOMON",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:12:14.025Z"
+  },
+  "transactionType": "payout",
+  "order_no": "3h76dt",
+  "userId": "20ymav809wbm0xy215wm2d",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "cb3nvqdul46",
+  "afterBalance": "7842",
+  "accountname": "ABEDNEGO PAUL JOB",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T17:57:23.381Z"
+  },
+  "transactionType": "payout",
+  "order_no": "xrxkmr",
+  "userId": "sq3bynicng8douufeao2e",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "oaz26b6h75a",
+  "afterBalance": "17800",
+  "accountname": "MEHTIC(KWATI/atiku inuwa)",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:12:45.141Z"
+  },
+  "transactionType": "payout",
+  "order_no": "s368m5",
+  "userId": "pt06x54huhaya0z5nrkw4e",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "6qdbemtnqbo",
+  "afterBalance": "470",
+  "accountname": "Angel Lyenti VINCENT",
+  "__v": 0
+},
+{
+  
+  "amount": "3000",
+  "date": {
+    "date": "2023-12-29T19:10:25.530Z"
+  },
+  "transactionType": "payout",
+  "order_no": "z7crm1",
+  "userId": "fhu4lp6ubpssp0p57sop",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "un3seja7g7",
+  "afterBalance": "12",
+  "accountname": "JERRY  JESSE",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T17:57:23.381Z"
+  },
+  "transactionType": "payout",
+  "order_no": "n9hqnn",
+  "userId": "cfhmg3y1n4bfk47j2vcnmf",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "huvg13h94lm",
+  "afterBalance": "343",
+  "accountname": "FIBIYA  JONATHAN",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T16:49:15.821Z"
+  },
+  "transactionType": "payout",
+  "order_no": "ls83i8",
+  "userId": "ynusp3z4t7oixq74vfnv9a",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "5w7vffs3m5s",
+  "afterBalance": "37847",
+  "accountname": "JOSEPH AHKSOM JALLO",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T16:49:15.821Z"
+  },
+  "transactionType": "payout",
+  "order_no": "70ztz8",
+  "userId": "z69b5lk4i5oi2ao8arwk",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "n87i5yku0f8",
+  "afterBalance": "13243",
+  "accountname": "fortune  iliya",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:10:25.530Z"
+  },
+  "transactionType": "payout",
+  "order_no": "3rsqr8",
+  "userId": "lm3jnsvdgj8vqc20bjp7n",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "iza34cosdfe",
+  "afterBalance": "34150",
+  "accountname": "NORAH ISMAILU",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:11:04.703Z"
+  },
+  "transactionType": "payout",
+  "order_no": "m9ivj1",
+  "userId": "142ir4secdtg05ey2w12n2xv",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "lgd1gwl8et",
+  "afterBalance": "6719",
+  "accountname": "MUBARAK MUHAMMAD INUWA",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:12:43.545Z"
+  },
+  "transactionType": "payout",
+  "order_no": "qyxk7o",
+  "userId": "8fvrss8rivmywxgiknvs9f",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "p6a785t0nfk",
+  "afterBalance": "10062",
+  "accountname": "LEKARALO  JOB",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:11:04.703Z"
+  },
+  "transactionType": "payout",
+  "order_no": "ashfvu",
+  "userId": "2bd6fames2kboei8mfg5j",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "b81dpiyw3gj",
+  "afterBalance": "4093",
+  "accountname": "umar  suleiman",
+  "__v": 0
+},
+{
+  
+  "amount": "2000",
+  "date": {
+    "date": "2023-12-29T17:57:23.381Z"
+  },
+  "transactionType": "payout",
+  "order_no": "swsogn",
+  "userId": "zzatul8906ol83wplg5tv",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "0fbcwnx374f",
+  "afterBalance": "134",
+  "accountname": "Auwal  Ibrahim",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:15:21.754Z"
+  },
+  "transactionType": "payout",
+  "order_no": "yj26tb",
+  "userId": "pab78xx9af9yoqb4mhy6am",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "bnwwly7t8n8",
+  "afterBalance": "18256",
+  "accountname": "NORAH  ISMAILU",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:20:51.358Z"
+  },
+  "transactionType": "payout",
+  "order_no": "xg6p4y",
+  "userId": "0whna79lj9nqief5m20gt",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "4k64vfh0lgc",
+  "afterBalance": "806",
+  "accountname": "Beris Sarkinnoma Bedan",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:12:45.141Z"
+  },
+  "transactionType": "payout",
+  "order_no": "fghpfy",
+  "userId": "mi299h87tg1phvlasnjtv",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "9z6mh8ai8u",
+  "afterBalance": "525",
+  "accountname": "ELMINA  Takoba",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:15:21.754Z"
+  },
+  "transactionType": "payout",
+  "order_no": "v5lok4",
+  "userId": "j6ah8t9p3ad2rrt10l49p",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "cohm9x4m589",
+  "afterBalance": "16562",
+  "accountname": "ERMURAM JALO JOSEPH",
+  "__v": 0
+},
+{
+  
+  "amount": "4200",
+  "date": {
+    "date": "2023-12-29T19:11:04.703Z"
+  },
+  "transactionType": "payout",
+  "order_no": "9z5tw6",
+  "userId": "i2m9si2xpkn4lfz4rfyns6",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "si1fyl4xaie",
+  "afterBalance": "187",
+  "accountname": "SAMSON  SAMUEL",
+  "__v": 0
+},
+{
+  
+  "amount": "2482",
+  "date": {
+    "date": "2023-12-29T19:11:04.703Z"
+  },
+  "transactionType": "payout",
+  "order_no": "uoznx2",
+  "userId": "ghyxwmn60pf7j9880b4spi",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "85v8b5nzty9",
+  "afterBalance": "0",
+  "accountname": "CHASIKDA  CHARLES",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T17:57:23.381Z"
+  },
+  "transactionType": "payout",
+  "order_no": "oyp45g",
+  "userId": "nsnv1e1f06ykqvpoe0c4",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "cswdp2fscdr",
+  "afterBalance": "9275",
+  "accountname": "NGBALI FRANk SYLVANUS",
+  "__v": 0
+},
+{
+  
+  "amount": "4800",
+  "date": {
+    "date": "2023-12-29T17:57:23.381Z"
+  },
+  "transactionType": "payout",
+  "order_no": "31gykl",
+  "userId": "zxirljp1vd4rza1cqhwmk",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "ccxs97onvol",
+  "afterBalance": "60",
+  "accountname": "Magaji   Habila",
+  "__v": 0
+},
+{
+  
+  "amount": "3000",
+  "date": {
+    "date": "2023-12-29T19:13:13.927Z"
+  },
+  "transactionType": "payout",
+  "order_no": "zbke7i",
+  "userId": "txsreoph5zhus6hqz2aoib",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "67mjha7rfyh",
+  "afterBalance": "653",
+  "accountname": "ABRAHAM PARAMDI",
+  "__v": 0
+},
+{
+  
+  "amount": "1200",
+  "date": {
+    "date": "2023-12-29T19:12:45.141Z"
+  },
+  "transactionType": "payout",
+  "order_no": "k2gw97",
+  "userId": "qlj2g4n0ox8ezgr0krxldh",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "ye3hzg3qtci",
+  "afterBalance": "27",
+  "accountname": "Sarah Ene Oyigoga",
+  "__v": 0
+},
+{
+  
+  "amount": "2000",
+  "date": {
+    "date": "2023-12-29T19:20:51.358Z"
+  },
+  "transactionType": "payout",
+  "order_no": "jn808g",
+  "userId": "bkl8ujua8igarkc5nigpg",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "6azaey7g3fv",
+  "afterBalance": "305",
+  "accountname": "AZONCHI ELISHA  SAMBO",
+  "__v": 0
+},
+{
+  
+  "amount": "2000",
+  "date": {
+    "date": "2023-12-29T19:12:43.545Z"
+  },
+  "transactionType": "payout",
+  "order_no": "2dgqz0",
+  "userId": "d26j1epuvjjkjuemqof579",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "svo4xce2d2l",
+  "afterBalance": "25",
+  "accountname": "ANNA GYOSMEN HABILA",
+  "__v": 0
+},
+{
+  
+  "amount": "1300",
+  "date": {
+    "date": "2023-12-29T19:22:58.451Z"
+  },
+  "transactionType": "payout",
+  "order_no": "454m9y",
+  "userId": "qfrjft0qt5jzvksnuu4s",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "gpqne0l0qn",
+  "afterBalance": "100",
+  "accountname": "SYLVIA CHINYERE OHABUIRO",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T17:57:23.381Z"
+  },
+  "transactionType": "payout",
+  "order_no": "3yubgm",
+  "userId": "1j6tipd6c4whiz23ae3emu",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "ynafbrgxvhn",
+  "afterBalance": "12225",
+  "accountname": "ISMAILU KALLEMSWANG",
+  "__v": 0
+},
+{
+  
+  "amount": "1050",
+  "date": {
+    "date": "2023-12-29T19:25:22.574Z"
+  },
+  "transactionType": "payout",
+  "order_no": "yj6zuh",
+  "userId": "8l3kr29j8p4o59vkux5ni",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "v4fj2xlltua",
+  "afterBalance": "0",
+  "accountname": "YASIR DANSHITTA SANI",
+  "__v": 0
+},
+{
+  
+  "amount": "3200",
+  "date": {
+    "date": "2023-12-29T19:25:28.239Z"
+  },
+  "transactionType": "payout",
+  "order_no": "gqw825",
+  "userId": "5rbh0e40tcbhv4o82caxo",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "z13nw7i2y3g",
+  "afterBalance": "76",
+  "accountname": "Dickson  joy",
+  "__v": 0
+},
+{
+  
+  "amount": "2000",
+  "date": {
+    "date": "2023-12-29T19:12:43.545Z"
+  },
+  "transactionType": "payout",
+  "order_no": "shf9j6",
+  "userId": "4wgixrdzdmf049dxnp8dg0g",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "yazlg6xe9sq",
+  "afterBalance": "279",
+  "accountname": "PRISCILLA KUYET ABEL",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:25:15.398Z"
+  },
+  "transactionType": "payout",
+  "order_no": "oy6kdp",
+  "userId": "mvuql7rv049ooykbchxx6",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "t0aik2ezvze",
+  "afterBalance": "6032",
+  "accountname": "REBECCA MAMZA JAMES",
+  "__v": 0
+},
+{
+  
+  "amount": "1000",
+  "date": {
+    "date": "2023-12-29T19:25:28.239Z"
+  },
+  "transactionType": "payout",
+  "order_no": "mbtvda",
+  "userId": "qnllhyk2fejocc2lf7s4h",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "4w44fnabio8",
+  "afterBalance": "20",
+  "accountname": "TAIWO VICTOR OLOMOLA",
+  "__v": 0
+},
+{
+  
+  "amount": "3250",
+  "date": {
+    "date": "2023-12-29T19:20:51.358Z"
+  },
+  "transactionType": "payout",
+  "order_no": "kkupvk",
+  "userId": "qqw2pvrusjl7korzd3teq7",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "wmwdx087qrk",
+  "afterBalance": "50",
+  "accountname": "MUHSIN HASSAN BULAMA",
+  "__v": 0
+},
+{
+  
+  "amount": "4100",
+  "date": {
+    "date": "2023-12-29T19:12:43.545Z"
+  },
+  "transactionType": "payout",
+  "order_no": "v6nub4",
+  "userId": "upduxxd4q246ub2pimo79",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "pkkl7grxqk",
+  "afterBalance": "89",
+  "accountname": "ELIHU ELISHA WETU",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:25:40.952Z"
+  },
+  "transactionType": "payout",
+  "order_no": "haypom",
+  "userId": "muidrpkr96vku68254xp",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "sya1njn6m8",
+  "afterBalance": "2668",
+  "accountname": "SOLOMON  JAMES",
+  "__v": 0
+},
+{
+  
+  "amount": "1500",
+  "date": {
+    "date": "2023-12-29T19:24:23.351Z"
+  },
+  "transactionType": "payout",
+  "order_no": "j6xpof",
+  "userId": "ne9xa7vu8wabz73n0iqvp",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "5kjg4s65r3",
+  "afterBalance": "13",
+  "accountname": "Muhammad Ngubdo Aliyu",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:24:23.351Z"
+  },
+  "transactionType": "payout",
+  "order_no": "yu2scz",
+  "userId": "6oz0t9y2pb3luobpdl02va",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "hcqletu942m",
+  "afterBalance": "13162",
+  "accountname": "MEHTIC(KWATI/Christopher Danl)",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:24:17.749Z"
+  },
+  "transactionType": "payout",
+  "order_no": "wil07e",
+  "userId": "u509nhl2mufxvg4kk2xc",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "vofcotlmek",
+  "afterBalance": "2330",
+  "accountname": "OBED  AMALEYO",
+  "__v": 0
+},
+{
+  
+  "amount": "2500",
+  "date": {
+    "date": "2023-12-29T19:25:22.574Z"
+  },
+  "transactionType": "payout",
+  "order_no": "jtwski",
+  "userId": "rx4cpwxmfohmqdx0bnz",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "t0lvv9nbc8",
+  "afterBalance": "128",
+  "accountname": "CHARLES HARUNA SOLOMON",
+  "__v": 0
+},
+{
+  
+  "amount": "2295",
+  "date": {
+    "date": "2023-12-29T19:24:23.351Z"
+  },
+  "transactionType": "payout",
+  "order_no": "5o98ff",
+  "userId": "43sk7ah3n1tfxdc7xu3ijs",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "wvoez77skl",
+  "afterBalance": "0",
+  "accountname": "ZAINAB  ABDULLAHI",
+  "__v": 0
+},
+{
+  
+  "amount": "1228",
+  "date": {
+    "date": "2023-12-29T19:24:17.749Z"
+  },
+  "transactionType": "payout",
+  "order_no": "oknaog",
+  "userId": "kprljf3qtbr4ex5hm8s367",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "r7x9wj6hrk",
+  "afterBalance": "0",
+  "accountname": "ABUBAKAR SADEEQ SALIHU",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:24:23.351Z"
+  },
+  "transactionType": "payout",
+  "order_no": "m1o4n6",
+  "userId": "jy8h24wa4gs0owtkeylzzs",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "lkw9whdkgaj",
+  "afterBalance": "39693",
+  "accountname": "NPURA ELISHA",
+  "__v": 0
+},
+{
+  
+  "amount": "4743",
+  "date": {
+    "date": "2023-12-29T19:25:28.239Z"
+  },
+  "transactionType": "payout",
+  "order_no": "muhn19",
+  "userId": "fohwlnskwfus3cmzd71ah",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "60oks0f22jq",
+  "afterBalance": "0",
+  "accountname": "MEHTIC(KWATI/Dlama Vandi)",
+  "__v": 0
+},
+{
+  
+  "amount": "1000",
+  "date": {
+    "date": "2023-12-29T19:25:22.574Z"
+  },
+  "transactionType": "payout",
+  "order_no": "nr1eg3",
+  "userId": "jmh8h2giqqo9t10gt338vq",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "9o76lhmt8om",
+  "afterBalance": "22532",
+  "accountname": "SILAS  BAYO",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:25:28.239Z"
+  },
+  "transactionType": "payout",
+  "order_no": "50zqwx",
+  "userId": "sug2xkofuxo2c26h9q1cc",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "dfkycsbzb0s",
+  "afterBalance": "239",
+  "accountname": "MEHTIC(KWATI/kafata agabus)",
+  "__v": 0
+},
+{
+  
+  "amount": "2000",
+  "date": {
+    "date": "2023-12-29T19:28:10.755Z"
+  },
+  "transactionType": "payout",
+  "order_no": "mr0kzi",
+  "userId": "q5ta58v7cksa70aymawm7",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "cd9qv3gi6dg",
+  "afterBalance": "276",
+  "accountname": "SULAIMAN JIMOH ABDULLAHI",
+  "__v": 0
+},
+{
+  
+  "amount": "1000",
+  "date": {
+    "date": "2023-12-29T19:30:14.200Z"
+  },
+  "transactionType": "payout",
+  "order_no": "gcutle",
+  "userId": "m657762ueynlqc07ukiw8",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "ohqt525oa0m",
+  "afterBalance": "31",
+  "accountname": "Felicia  Dickson",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:25:28.239Z"
+  },
+  "transactionType": "payout",
+  "order_no": "roz9c6",
+  "userId": "wmwibsuddqgfs2sa2rbsnv",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "z34wb73khx",
+  "afterBalance": "520",
+  "accountname": "ABUBAKAR MUHD ABDULHAMID",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:28:48.261Z"
+  },
+  "transactionType": "payout",
+  "order_no": "c0c0ye",
+  "userId": "l8b9t7nqx6g6287dbos9",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "ngd35fj52za",
+  "afterBalance": "4210",
+  "accountname": "MUSLIM UMAR BUHARI",
+  "__v": 0
+},
+{
+  
+  "amount": "3400",
+  "date": {
+    "date": "2023-12-29T19:28:55.212Z"
+  },
+  "transactionType": "payout",
+  "order_no": "ws9ktz",
+  "userId": "jxv77npckf63v7tnc4409",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "vv2m7m58jej",
+  "afterBalance": "49",
+  "accountname": "YUSUF  ANTHONY",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:28:27.469Z"
+  },
+  "transactionType": "payout",
+  "order_no": "brefkr",
+  "userId": "4n4gh8vbahm38692f3al",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "dgkeoyvud4",
+  "afterBalance": "3292",
+  "accountname": "JENNY MAMZA JAMES",
+  "__v": 0
+},
+{
+  
+  "amount": "3000",
+  "date": {
+    "date": "2023-12-29T19:29:04.154Z"
+  },
+  "transactionType": "payout",
+  "order_no": "8140ab",
+  "userId": "tq9wgc1u0v6yrbv3mge3m",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "1tkgrc996mh",
+  "afterBalance": "1007",
+  "accountname": "BUBA AYUBA",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:30:12.082Z"
+  },
+  "transactionType": "payout",
+  "order_no": "k11t6h",
+  "userId": "ehmpsgcff4it2nbtof67",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "ezou4kyh76h",
+  "afterBalance": "2257",
+  "accountname": "HIKIMA  SUNDAY",
+  "__v": 0
+},
+{
+  
+  "amount": "3449",
+  "date": {
+    "date": "2023-12-29T19:25:28.239Z"
+  },
+  "transactionType": "payout",
+  "order_no": "z7du4r",
+  "userId": "nlu0aer7jw8xg39ayd4yed",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "no975mm2dpe",
+  "afterBalance": "0",
+  "accountname": "HASSAN JIMJEL BABILA",
+  "__v": 0
+},
+{
+  
+  "amount": "1900",
+  "date": {
+    "date": "2023-12-29T19:28:48.261Z"
+  },
+  "transactionType": "payout",
+  "order_no": "05bcf3",
+  "userId": "tavnxaki6aj4iz5xon3ddu",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "ocd17wmt8vb",
+  "afterBalance": "110",
+  "accountname": "IBUKUN - IBINAIYE",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:30:15.730Z"
+  },
+  "transactionType": "payout",
+  "order_no": "2abh4h",
+  "userId": "92cm4orcxmslzpjtoj3vqp",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "k2a5m7fbcdr",
+  "afterBalance": "12125",
+  "accountname": "Bukky  Bello",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:28:55.212Z"
+  },
+  "transactionType": "payout",
+  "order_no": "16ozqa",
+  "userId": "y15a0s1ls2hs3k3fxcztk",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "56nabmncyuo",
+  "afterBalance": "281",
+  "accountname": "SHALLOM",
+  "__v": 0
+},
+{
+  
+  "amount": "2000",
+  "date": {
+    "date": "2023-12-29T19:28:55.212Z"
+  },
+  "transactionType": "payout",
+  "order_no": "hjhmri",
+  "userId": "rfszlk26fxj6fat1ltxmv",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "qda8040a9j",
+  "afterBalance": "62",
+  "accountname": "RAPHAEL ILIYA",
+  "__v": 0
+},
+{
+  
+  "amount": "4900",
+  "date": {
+    "date": "2023-12-29T19:29:54.466Z"
+  },
+  "transactionType": "payout",
+  "order_no": "8bj5u9",
+  "userId": "svld5jgbza6xubj3siyv3",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "m95o1ly0u5",
+  "afterBalance": "1",
+  "accountname": "MUSA RUFAI AHMED",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:28:27.469Z"
+  },
+  "transactionType": "payout",
+  "order_no": "ssbu7m",
+  "userId": "xuylh9cecsddpvzsezkjz6",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "ge1cl56bxob",
+  "afterBalance": "9638",
+  "accountname": "BLESSING  NELSON",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:24:23.351Z"
+  },
+  "transactionType": "payout",
+  "order_no": "wp00h4",
+  "userId": "kpw1ob4wzcolgxjp208l19",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "x8ml786aorr",
+  "afterBalance": "11673",
+  "accountname": "Meekyaah Nashon Jodale",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:30:15.730Z"
+  },
+  "transactionType": "payout",
+  "order_no": "y64ks6",
+  "userId": "i9d2pk4jcbrx35o0acuhsp",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "8qn59mt9v46",
+  "afterBalance": "6707",
+  "accountname": "MEHTIC(KWATI/Nuhu Amos)",
+  "__v": 0
+},
+{
+  
+  "amount": "3800",
+  "date": {
+    "date": "2023-12-29T19:28:12.441Z"
+  },
+  "transactionType": "payout",
+  "order_no": "w7gqcx",
+  "userId": "mm6rposmalp746nscw3b",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "ku9p4g988sq",
+  "afterBalance": "0",
+  "accountname": "BASHIRU GURIN ISHAKA",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:28:48.261Z"
+  },
+  "transactionType": "payout",
+  "order_no": "1z14nn",
+  "userId": "e3077ku2nv7k7tyfctfkri",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "ua7xxhx7o7p",
+  "afterBalance": "1688",
+  "accountname": "ELIZABETH SAMAILA TIZHE",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:28:27.469Z"
+  },
+  "transactionType": "payout",
+  "order_no": "4aqvdk",
+  "userId": "aqqcazft7shimx89x175o",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "wlapoldf10c",
+  "afterBalance": "14433",
+  "accountname": "SINABIJINYI BARSISA ISHAYA",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:28:48.261Z"
+  },
+  "transactionType": "payout",
+  "order_no": "57cm9r",
+  "userId": "dqiup543aoj9l14xr4n1i8",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "wktee011gc",
+  "afterBalance": "4054",
+  "accountname": "MEHTIC(KWATI/ABBA BABA ADAMU)",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:31:31.485Z"
+  },
+  "transactionType": "payout",
+  "order_no": "ugews7",
+  "userId": "e7m9n59ugdolj23iyzh1rn",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "njl9tfs0jz",
+  "afterBalance": "5449",
+  "accountname": "Esther  Oladipo",
+  "__v": 0
+},
+{
+  
+  "amount": "1250.00",
+  "date": {
+    "date": "2023-12-29T19:32:15.593Z"
+  },
+  "transactionType": "payout",
+  "order_no": "mjelsw",
+  "userId": "s8bn07kt0m8o2s7sgc6wzh",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "zs0iy8yu0jn",
+  "afterBalance": "12",
+  "accountname": "OWOICHO LILIAN ENEWA",
+  "__v": 0
+},
+{
+  
+  "amount": "3336",
+  "date": {
+    "date": "2023-12-29T19:29:54.466Z"
+  },
+  "transactionType": "payout",
+  "order_no": "6esse1",
+  "userId": "s8w9b2tle3ejl1goorbmj",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "bxc7nweimvj",
+  "afterBalance": "0",
+  "accountname": "DAHANDAI  SADO",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:31:45.170Z"
+  },
+  "transactionType": "payout",
+  "order_no": "lzngy8",
+  "userId": "olb7a92q1naaqxwmb6k76",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "l2oq9dk398l",
+  "afterBalance": "1084",
+  "accountname": "THATU  CHIDIVO",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:31:45.170Z"
+  },
+  "transactionType": "payout",
+  "order_no": "2mveor",
+  "userId": "gisnhszo7jlm1hz365xpf",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "sije7apkgg",
+  "afterBalance": "2213",
+  "accountname": "BELLO HAPSAT",
+  "__v": 0
+},
+{
+  
+  "amount": "1000",
+  "date": {
+    "date": "2023-12-29T19:32:02.242Z"
+  },
+  "transactionType": "payout",
+  "order_no": "khiysl",
+  "userId": "2d9woivzwgv90kkfie81nu",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "o82zkqhlnp",
+  "afterBalance": "371",
+  "accountname": "KINGLEY ULAM DIRE",
+  "__v": 0
+},
+{
+  
+  "amount": "2000",
+  "date": {
+    "date": "2023-12-29T19:33:01.090Z"
+  },
+  "transactionType": "payout",
+  "order_no": "sp9xaw",
+  "userId": "53tweodscix0yjsyct2wd",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "aavtzsbyge",
+  "afterBalance": "25",
+  "accountname": "OKPIABHELE GEORGE EHIDIAME   ",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:33:26.662Z"
+  },
+  "transactionType": "payout",
+  "order_no": "2m9rzc",
+  "userId": "m5yik58i4ep2uvvq0etx8d",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "e7z6inrqsvd",
+  "afterBalance": "3175",
+  "accountname": "SALAMI, BLESSING",
+  "__v": 0
+},
+{
+  
+  "amount": "1400",
+  "date": {
+    "date": "2023-12-29T19:33:39.214Z"
+  },
+  "transactionType": "payout",
+  "order_no": "okuyq6",
+  "userId": "fkn04q4xwgcte2xi44zemj",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "re9l1uwiclc",
+  "afterBalance": "50",
+  "accountname": "SAUL BAMAIYI",
+  "__v": 0
+},
+{
+  
+  "amount": "2000",
+  "date": {
+    "date": "2023-12-29T19:32:57.067Z"
+  },
+  "transactionType": "payout",
+  "order_no": "8tcd9n",
+  "userId": "e3dyfe3rn65ml39z5b3irk",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "8f71l9yhnna",
+  "afterBalance": "15",
+  "accountname": "SIMON NAOMI",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:32:34.665Z"
+  },
+  "transactionType": "payout",
+  "order_no": "xiqgif",
+  "userId": "qhc44xlsnmv1dasa48qp",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "6wblsay2dxb",
+  "afterBalance": "4016",
+  "accountname": "MEHTIC(KWATI/Austin Beshi)",
+  "__v": 0
+},
+{
+  
+  "amount": "1000",
+  "date": {
+    "date": "2023-12-29T19:34:39.884Z"
+  },
+  "transactionType": "payout",
+  "order_no": "g6i8x2",
+  "userId": "jwqmjubdwrc2cqe9xqtv6",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "a3wx2sy9pl",
+  "afterBalance": "60",
+  "accountname": "MEHTIC(KWATI/Rapha Ibrahim)",
+  "__v": 0
+},
+{
+  
+  "amount": "4000",
+  "date": {
+    "date": "2023-12-29T19:34:32.966Z"
+  },
+  "transactionType": "payout",
+  "order_no": "krpnyb",
+  "userId": "hm0cb7a4mhiuj6y8r0ogm",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "nub5x7iiis",
+  "afterBalance": "11",
+  "accountname": "Muhammad Usman Yauba",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:35:36.775Z"
+  },
+  "transactionType": "payout",
+  "order_no": "yp8qy5",
+  "userId": "jmnaldj7nwyd639xl21l",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "udvuoizsmrd",
+  "afterBalance": "7083",
+  "accountname": "RITA ENE OBAJE",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:35:29.022Z"
+  },
+  "transactionType": "payout",
+  "order_no": "bacdov",
+  "userId": "871qfwnruckwssps5xzlm",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "nameyppdw3",
+  "afterBalance": "11321",
+  "accountname": "EZRA PEPETAPWA",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:35:27.316Z"
+  },
+  "transactionType": "payout",
+  "order_no": "i51gh6",
+  "userId": "4yqg3asekz97ul7d6cic",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "0nursqawgjn",
+  "afterBalance": "5420",
+  "accountname": "LUKA PIUS YANBWALSOM",
+  "__v": 0
+},
+{
+  
+  "amount": "1700",
+  "date": {
+    "date": "2023-12-29T19:34:39.884Z"
+  },
+  "transactionType": "payout",
+  "order_no": "ocom0j",
+  "userId": "omdgodeqtwg273qo3gixn",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "tjg1r3vwgwb",
+  "afterBalance": "6",
+  "accountname": "JAMES YOHANNA",
+  "__v": 0
+},
+{
+  
+  "amount": "4500",
+  "date": {
+    "date": "2023-12-29T19:34:32.966Z"
+  },
+  "transactionType": "payout",
+  "order_no": "vgp6xp",
+  "userId": "pr8sya4d1gmoh5wgkno2na",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "9k818l10gw5",
+  "afterBalance": "24",
+  "accountname": "MARKUS SUNDAY",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:35:04.474Z"
+  },
+  "transactionType": "payout",
+  "order_no": "d27zul",
+  "userId": "uoiwf9v7dvijosy4p4f627",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "eaese8kr31g",
+  "afterBalance": "1130",
+  "accountname": "HAMAFYELTO PRAISE DENNIS",
+  "__v": 0
+},
+{
+  
+  "amount": "3300",
+  "date": {
+    "date": "2023-12-29T19:35:37.308Z"
+  },
+  "transactionType": "payout",
+  "order_no": "q5brn6",
+  "userId": "32vuttyzyt5l2kcpmeyjtl",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "ekya1giukc",
+  "afterBalance": "37",
+  "accountname": "BAWA MOSES",
+  "__v": 0
+},
+{
+  
+  "amount": "2020",
+  "date": {
+    "date": "2023-12-29T19:28:10.720Z"
+  },
+  "transactionType": "payout",
+  "order_no": "2drwb9",
+  "userId": "rg7648mkv0bsz130s1xnwp",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "0god6u2ffwu",
+  "afterBalance": "0",
+  "accountname": "Esther  Olugbami",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:36:05.995Z"
+  },
+  "transactionType": "payout",
+  "order_no": "318om3",
+  "userId": "oqhafnddfus021ie4t43vlf",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "yds2vsrnjek",
+  "afterBalance": "15035",
+  "accountname": "JOSEPH PATRICK EYO",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:34:39.884Z"
+  },
+  "transactionType": "payout",
+  "order_no": "r2eb9f",
+  "userId": "7nyx288zjet90n0oyr1rw9",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "7iqbv4ff58a",
+  "afterBalance": "8712",
+  "accountname": "FRANCISCA WAYAMDO TAPASEI",
+  "__v": 0
+},
+{
+  
+  "amount": "1000",
+  "date": {
+    "date": "2023-12-29T19:36:29.904Z"
+  },
+  "transactionType": "payout",
+  "order_no": "3lvsz3",
+  "userId": "o2gv78n34cdhamzcyst34",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "wd9bpnrhno9",
+  "afterBalance": "20",
+  "accountname": "MEHTIC(KWATI/Abdulhafeez Abub)",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:34:32.966Z"
+  },
+  "transactionType": "payout",
+  "order_no": "ycgmx2",
+  "userId": "aj1nzi0f7nhh8j7f2bc7",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "y451kzu20g",
+  "afterBalance": "2565",
+  "accountname": "AMBISA ZACHARIA JOHNSON",
+  "__v": 0
+},
+{
+  
+  "amount": "1559",
+  "date": {
+    "date": "2023-12-29T19:36:33.564Z"
+  },
+  "transactionType": "payout",
+  "order_no": "g4jf9t",
+  "userId": "nb09o3p147mj22gfj1quxc",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "c9jmokqq7lw",
+  "afterBalance": "0",
+  "accountname": "FIDELIS SUNTIYASA SAMUEL",
+  "__v": 0
+},
+{
+  
+  "amount": "1600",
+  "date": {
+    "date": "2023-12-29T19:34:39.884Z"
+  },
+  "transactionType": "payout",
+  "order_no": "nuu5qs",
+  "userId": "1ad7rfwajvfv9q9tg50rdo",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "wz4zaj38ns9",
+  "afterBalance": "5",
+  "accountname": "Abdulkadir  Hassan",
+  "__v": 0
+},
+{
+  
+  "amount": "4950",
+  "date": {
+    "date": "2023-12-29T19:36:05.995Z"
+  },
+  "transactionType": "payout",
+  "order_no": "6lsm5x",
+  "userId": "x6ei2jxdmca05x6v533zl",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "sji8tigj73",
+  "afterBalance": "5108",
+  "accountname": "UGOCHUKWU PRINCE",
+  "__v": 0
+},
+{
+  
+  "amount": "1400",
+  "date": {
+    "date": "2023-12-29T19:28:10.720Z"
+  },
+  "transactionType": "payout",
+  "order_no": "jod6dv",
+  "userId": "ulncukq962skhalmb3omqq",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "f7rqhzfz509",
+  "afterBalance": "37",
+  "accountname": "BLESSING FOLAKE AKINKUEBI",
+  "__v": 0
+},
+{
+  
+  "amount": "3451",
+  "date": {
+    "date": "2023-12-29T19:35:37.308Z"
+  },
+  "transactionType": "payout",
+  "order_no": "b3dx6h",
+  "userId": "yp2d9lbhy3g8nniqdq7p",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "fg132g3cdf",
+  "afterBalance": "0",
+  "accountname": "PETER CLEMENT",
+  "__v": 0
+},
+{
+  
+  "amount": "1020",
+  "date": {
+    "date": "2023-12-29T19:35:27.316Z"
+  },
+  "transactionType": "payout",
+  "order_no": "qy3sh2",
+  "userId": "8fw3jjy90rwdnkgtd1nrtj",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "vuhovgrjcij",
+  "afterBalance": "10",
+  "accountname": "FIELIYAN  JONATHAN",
+  "__v": 0
+},
+{
+  
+  "amount": "1100",
+  "date": {
+    "date": "2023-12-29T19:37:26.688Z"
+  },
+  "transactionType": "payout",
+  "order_no": "jh1tt6",
+  "userId": "xuivmckitbcwwja7f2dvmb",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "phyvzm6gzvi",
+  "afterBalance": "196",
+  "accountname": "COLLINS PWANEDO KEFAS",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:37:26.688Z"
+  },
+  "transactionType": "payout",
+  "order_no": "zv1wq0",
+  "userId": "0104la9g03te285txxk8ddc",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "xh8h8ikq8mj",
+  "afterBalance": "5549",
+  "accountname": "MUHAMMAD NAJAATU INUWA",
+  "__v": 0
+},
+{
+  
+  "amount": "1750",
+  "date": {
+    "date": "2023-12-29T19:35:55.543Z"
+  },
+  "transactionType": "payout",
+  "order_no": "ddte15",
+  "userId": "9ymt7jh3dksujqds7remm",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "i2cswprm34m",
+  "afterBalance": "36",
+  "accountname": "ABUBAKAR MUSA",
+  "__v": 0
+},
+{
+  
+  "amount": "1000",
+  "date": {
+    "date": "2023-12-29T19:37:59.709Z"
+  },
+  "transactionType": "payout",
+  "order_no": "yh8a7n",
+  "userId": "xydk1gg5bpsnk2ftmmmje",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "st5oy3d3u3o",
+  "afterBalance": "5808",
+  "accountname": "TADZABIA   OSINDA",
+  "__v": 0
+},
+{
+  
+  "amount": "1617",
+  "date": {
+    "date": "2023-12-29T19:37:26.688Z"
+  },
+  "transactionType": "payout",
+  "order_no": "xuqeib",
+  "userId": "nnbrer9h0g8lhcseb4p3e",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "rri9dmsv9c",
+  "afterBalance": "0",
+  "accountname": "musa bello Mohammed",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:38:12.500Z"
+  },
+  "transactionType": "payout",
+  "order_no": "gvn8x3",
+  "userId": "7567w4uyh2dzhkton7v21h",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "cvt17ubwauv",
+  "afterBalance": "5831",
+  "accountname": "MUHAMMAD JANNATU INUWA",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:36:27.619Z"
+  },
+  "transactionType": "payout",
+  "order_no": "sfa5re",
+  "userId": "qjesrg2rjsiivs3ge8m4",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "m90mg0cyvjf",
+  "afterBalance": "6467",
+  "accountname": "SOLOMON  VICTOR",
+  "__v": 0
+},
+{
+  
+  "amount": "1500",
+  "date": {
+    "date": "2023-12-29T19:35:27.316Z"
+  },
+  "transactionType": "payout",
+  "order_no": "6lizic",
+  "userId": "8nkzxp08pcnbtu866w0y08",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "c5cj6kco6b",
+  "afterBalance": "82",
+  "accountname": "IBRAHIM ABDULRAHIM",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:37:59.709Z"
+  },
+  "transactionType": "payout",
+  "order_no": "fon5ks",
+  "userId": "q93f2peleojjj46rj0sbyj",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "zg7z5i530b",
+  "afterBalance": "455",
+  "accountname": "ERASTUS  PWABOROSHI",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:39:40.957Z"
+  },
+  "transactionType": "payout",
+  "order_no": "pmpgls",
+  "userId": "maccmj33c5j188objmlc",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "qhmefi956ka",
+  "afterBalance": "1484",
+  "accountname": "ALLEN ALEX JALO",
+  "__v": 0
+},
+{
+  
+  "amount": "3030",
+  "date": {
+    "date": "2023-12-29T19:31:45.170Z"
+  },
+  "transactionType": "payout",
+  "order_no": "vbcg3j",
+  "userId": "2m5so4vq58ox8jzkpr4r",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "us592i45ppf",
+  "afterBalance": "0",
+  "accountname": "TANIMU, NAJAATU",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:39:54.739Z"
+  },
+  "transactionType": "payout",
+  "order_no": "6eqeny",
+  "userId": "nob3nwd2yrbpnlsnana4kq",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "znv87calvr",
+  "afterBalance": "195",
+  "accountname": "NELSON  NAPITOAMBO JOSHUA",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:37:26.688Z"
+  },
+  "transactionType": "payout",
+  "order_no": "geda12",
+  "userId": "jys5xkt40citqgqksn0dei",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "xstn4ndtcgn",
+  "afterBalance": "16375",
+  "accountname": "MEHTIC(KWATI/Pwanadeino Willi)",
+  "__v": 0
+},
+{
+  
+  "amount": "3735",
+  "date": {
+    "date": "2023-12-29T19:39:54.739Z"
+  },
+  "transactionType": "payout",
+  "order_no": "9ott20",
+  "userId": "nr6iqmn6g57znirl5n1fh",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "rmxduyfqi2d",
+  "afterBalance": "0",
+  "accountname": "JULIUS DINAHI IDI",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:37:26.688Z"
+  },
+  "transactionType": "payout",
+  "order_no": "r7bjps",
+  "userId": "ywnymqycjxreqgpuh5fp65",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "29hub3m65gi",
+  "afterBalance": "4055",
+  "accountname": "RIBA FAVOUR KEVIN",
+  "__v": 0
+},
+{
+  
+  "amount": "2400",
+  "date": {
+    "date": "2023-12-29T19:39:54.739Z"
+  },
+  "transactionType": "payout",
+  "order_no": "0k5csv",
+  "userId": "orfpjtdn7ohqlm119jpl8i",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "bpcmg7l8uxc",
+  "afterBalance": "45",
+  "accountname": "MEHTIC(KWATI/Samson David)",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:38:12.500Z"
+  },
+  "transactionType": "payout",
+  "order_no": "i2x0kh",
+  "userId": "996i222gg2l5jgz48hvgqt",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "quzq7vpz7x",
+  "afterBalance": "120",
+  "accountname": "THAWANDAI  MATTA",
+  "__v": 0
+},
+{
+  
+  "amount": "1200",
+  "date": {
+    "date": "2023-12-29T19:41:10.832Z"
+  },
+  "transactionType": "payout",
+  "order_no": "i85xec",
+  "userId": "ro44ems4kjxhivbnvuo1p",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "7wju88gqiz2",
+  "afterBalance": "25",
+  "accountname": "EZEKIEL SHEKWOTAYA MADAKI",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T19:45:44.107Z"
+  },
+  "transactionType": "payout",
+  "order_no": "rpsdkm",
+  "userId": "jmqqle7t8zivitfa6tr",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "f8ye2nbkd5",
+  "afterBalance": "7317",
+  "accountname": "MEHTIC(KWATI/Serah Abraham)",
+  "__v": 0
+},
+{
+  
+  "amount": "3100",
+  "date": {
+    "date": "2023-12-29T19:45:37.210Z"
+  },
+  "transactionType": "payout",
+  "order_no": "si7ncl",
+  "userId": "76mh96dmty6itwmmzg3c5l",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "01pxl0s2z87",
+  "afterBalance": "25",
+  "accountname": "MOHAMMED MUNNIRAH",
+  "__v": 0
+},
+{
+  
+  "amount": "4100",
+  "date": {
+    "date": "2023-12-29T20:24:49.369Z"
+  },
+  "transactionType": "payout",
+  "order_no": "cw3x2s",
+  "userId": "q2i7k1y6342d2fdzdik29",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "vssosq5vl5",
+  "afterBalance": "1",
+  "accountname": "Benjamin   martins",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T20:24:06.447Z"
+  },
+  "transactionType": "payout",
+  "order_no": "wlkxdo",
+  "userId": "d6q5rvpamav6rp0e0y4ahd",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "yz668ys9hig",
+  "afterBalance": "14159",
+  "accountname": "BALA ISHAKU ",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T20:24:52.902Z"
+  },
+  "transactionType": "payout",
+  "order_no": "eso1dq",
+  "userId": "8lerw8kyjkcm99yh9iytt",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "t9a086pokhf",
+  "afterBalance": "14032",
+  "accountname": "PAPAA SUMADANDA MOSES",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T20:25:19.283Z"
+  },
+  "transactionType": "payout",
+  "order_no": "4eozj2",
+  "userId": "m4tyt4rawuos4tp7r9t4r7",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "66gbvd4t0b",
+  "afterBalance": "27391",
+  "accountname": "Aaron Zwakas Mirchaulum",
+  "__v": 0
+},
+{
+  
+  "amount": "3873",
+  "date": {
+    "date": "2023-12-29T20:25:07.072Z"
+  },
+  "transactionType": "payout",
+  "order_no": "nqv7kj",
+  "userId": "fqvsvpuw50ggtz9a7zcner",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "ghxm66reymr",
+  "afterBalance": "0",
+  "accountname": "TIZHE AMOS ",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T20:25:35.121Z"
+  },
+  "transactionType": "payout",
+  "order_no": "3rxn00",
+  "userId": "b6t9lau3msf4kyc72jxpd7",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "jvwvtn193yi",
+  "afterBalance": "5050",
+  "accountname": "MEHTIC(KWATI/Ngulyaro Kevin)",
+  "__v": 0
+},
+{
+  
+  "amount": "2125",
+  "date": {
+    "date": "2023-12-29T20:25:31.240Z"
+  },
+  "transactionType": "payout",
+  "order_no": "a4rxw7",
+  "userId": "5acymfu8c6c9oedhzukzu",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "s5nq4it4z2g",
+  "afterBalance": "0",
+  "accountname": "ANDEMI   SIPWEN",
+  "__v": 0
+},
+{
+  
+  "amount": "2100",
+  "date": {
+    "date": "2023-12-29T20:25:30.784Z"
+  },
+  "transactionType": "payout",
+  "order_no": "zzlzmm",
+  "userId": "noxo3106wym1ymqtvn7d1e",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "b0i8v084otc",
+  "afterBalance": "7",
+  "accountname": "JOHN PWAMORI JAPHET",
+  "__v": 0
+},
+{
+  
+  "amount": "3750",
+  "date": {
+    "date": "2023-12-29T20:23:44.386Z"
+  },
+  "transactionType": "payout",
+  "order_no": "66l0g4",
+  "userId": "579xvgmwhp8xbengqmmah",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "n87ddybiese",
+  "afterBalance": "49",
+  "accountname": "MERCY CHINENYE OBIKA",
+  "__v": 0
+},
+{
+  
+  "amount": "1000",
+  "date": {
+    "date": "2023-12-29T20:25:42.758Z"
+  },
+  "transactionType": "payout",
+  "order_no": "800o61",
+  "userId": "5lvfqzb9m8n6qjryjlfitg",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "3n66z2jf8lu",
+  "afterBalance": "39",
+  "accountname": "RIBASON, RIKAMI JUDE",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T20:25:35.121Z"
+  },
+  "transactionType": "payout",
+  "order_no": "o04hv4",
+  "userId": "ogh7bwixokdxatmmuj3xmj",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "jehpckluv4p",
+  "afterBalance": "23477",
+  "accountname": "MEHTIC(KWATI/Birwula Aaron Zw)",
+  "__v": 0
+},
+{
+  
+  "amount": "1000",
+  "date": {
+    "date": "2023-12-29T20:25:57.349Z"
+  },
+  "transactionType": "payout",
+  "order_no": "eji8dz",
+  "userId": "ywsu3dq3i9nc946khq0r",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "5rl725tkotv",
+  "afterBalance": "0",
+  "accountname": "Gabriel   Habila",
+  "__v": 0
+},
+{
+  
+  "amount": "2000",
+  "date": {
+    "date": "2023-12-29T20:26:11.965Z"
+  },
+  "transactionType": "payout",
+  "order_no": "b46yr9",
+  "userId": "v8zon38fzxj1povkbycp",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "l0ndgrgsj8f",
+  "afterBalance": "265",
+  "accountname": "MUBARAK MUHAMMAD INUWA",
+  "__v": 0
+},
+{
+  
+  "amount": "1400",
+  "date": {
+    "date": "2023-12-29T20:25:42.758Z"
+  },
+  "transactionType": "payout",
+  "order_no": "jtucpv",
+  "userId": "9yi8cak0jtnpbzrco3lso",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "9owsdlakt29",
+  "afterBalance": "22",
+  "accountname": "DAVID JAPHET SOLOMON",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T20:26:21.846Z"
+  },
+  "transactionType": "payout",
+  "order_no": "3hh9mb",
+  "userId": "cr5nuj49empvn7p34988ue",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "buybe2rikdv",
+  "afterBalance": "2394",
+  "accountname": "HARUNA GLADYS BOIKUDUK",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T20:26:16.195Z"
+  },
+  "transactionType": "payout",
+  "order_no": "r1x46n",
+  "userId": "r40muohussngvkalotyhih",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "cgjr1x2965k",
+  "afterBalance": "2839",
+  "accountname": "SANTINO DIOKADAN ANTHONY",
+  "__v": 0
+},
+{
+  
+  "amount": "1050",
+  "date": {
+    "date": "2023-12-29T20:26:39.329Z"
+  },
+  "transactionType": "payout",
+  "order_no": "fewhsa",
+  "userId": "8ojdgxt2qc2xk24h0b4coi",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "ef3lb7rhfoe",
+  "afterBalance": "2",
+  "accountname": "FIDELIA NAAMAH JACOB",
+  "__v": 0
+},
+{
+  
+  "amount": "1515",
+  "date": {
+    "date": "2023-12-29T20:26:44.685Z"
+  },
+  "transactionType": "payout",
+  "order_no": "9lfh6r",
+  "userId": "uvfjbk86lhgw8yhx3rxmrr",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "vv5gg3sx2si",
+  "afterBalance": "0",
+  "accountname": "NIXSON SUCHAHYEL",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T20:26:03.202Z"
+  },
+  "transactionType": "payout",
+  "order_no": "e6wfrs",
+  "userId": "owcgllbnv46lkg8njdod4",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "plfe08uzre",
+  "afterBalance": "7225",
+  "accountname": "BOSHIHADEINO SINITI",
+  "__v": 0
+},
+{
+  
+  "amount": "1900",
+  "date": {
+    "date": "2023-12-29T20:26:16.195Z"
+  },
+  "transactionType": "payout",
+  "order_no": "4mwpkh",
+  "userId": "j3miv2cctb7h7nwtoc94qj",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "uev97vhf56",
+  "afterBalance": "32",
+  "accountname": "PWAGRI  GODWIN",
+  "__v": 0
+},
+{
+  
+  "amount": "2104",
+  "date": {
+    "date": "2023-12-29T20:57:04.565Z"
+  },
+  "transactionType": "payout",
+  "order_no": "f8ebco",
+  "userId": "5j1jjd6hg4i74prfy9g4e7",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "j1bkfe7z5oj",
+  "afterBalance": "0",
+  "accountname": "Bemdoo Thaddeus Orbunde",
+  "__v": 0
+},
+{
+  
+  "amount": "3050",
+  "date": {
+    "date": "2023-12-29T21:18:46.988Z"
+  },
+  "transactionType": "payout",
+  "order_no": "fps7ty",
+  "userId": "om90ue5g5gfnswgyz0zdy9",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "6lyskjdtzjh",
+  "afterBalance": "10",
+  "accountname": "GODWIN AKOJI DAVID",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T21:19:34.866Z"
+  },
+  "transactionType": "payout",
+  "order_no": "72aqgk",
+  "userId": "rq7fpqphwhi5rpq02f27f",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "wshfpfp0fg",
+  "afterBalance": "5543",
+  "accountname": "DAUDA PWAMOREINO ALEXANDER",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T21:40:56.225Z"
+  },
+  "transactionType": "payout",
+  "order_no": "pmlv13",
+  "userId": "c9mor1amd2703kd74pm8qrf",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "4dcsydzehla",
+  "afterBalance": "7000",
+  "accountname": "NELSON   UHEMBE",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T21:48:59.934Z"
+  },
+  "transactionType": "payout",
+  "order_no": "xy0xzv",
+  "userId": "c9mor1amd2703kd74pm8qrf",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "lxnbml9okxk",
+  "afterBalance": "45000",
+  "accountname": "ANANA MARGARET ATERO",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T21:48:59.934Z"
+  },
+  "transactionType": "payout",
+  "order_no": "k69hvw",
+  "userId": "c9mor1amd2703kd74pm8qrf",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "yzzpzca1rfl",
+  "afterBalance": "40000",
+  "accountname": "Bemsen David Hemen",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T22:20:31.478Z"
+  },
+  "transactionType": "payout",
+  "order_no": "oku26y",
+  "userId": "c9mor1amd2703kd74pm8qrf",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "jrqoimf3zf",
+  "afterBalance": "35000",
+  "accountname": "Anyor moses joseph",
+  "__v": 0
+},
+{
+  
+  "amount": "5000",
+  "date": {
+    "date": "2023-12-29T22:36:29.167Z"
+  },
+  "transactionType": "payout",
+  "order_no": "txs3ed",
+  "userId": "c9mor1amd2703kd74pm8qrf",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "18parn9ynwu",
+  "afterBalance": "30000",
+  "accountname": "SHARON ENE DORDIP",
+  "__v": 0
+},
+{
+  
+  "amount": "1000",
+  "date": {
+    "date": "2023-12-29T23:41:27.479Z"
+  },
+  "transactionType": "payout",
+  "order_no": "eodrk2",
+  "userId": "c9mor1amd2703kd74pm8qrf",
+  "description": "Payment from karaads",
+  "paymentdata": [],
+  "TxRef": "9ibvparw6mg",
+  "afterBalance": "29000",
+  "accountname": "UHEMBE, UHEMBE NELSON",
+  "__v": 0
+}]
